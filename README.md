@@ -40,6 +40,8 @@ Since ISHI-KAI has university professors and semiconductor companies as collabor
 ### [GDS](/gds/)
 
 - [Layout File](/gds/ISHI-KAI_WS_RUN1.zip)
+    - It is compressed because it exceeded 100MB.
+- [Frame File](/gds/frame_ISHI-KAI.gds)
 - [Member's Project](/gds/member_project/)
 
 - ![KLayout](/images/chip_image_klayout.png)
