@@ -62,7 +62,7 @@ Please refer to the links below.
 
 ## Precheck Log
 - [precheck log](/precheck/)
-- ![precheck log](/images/precheck_1st_OK.png)
+- ![precheck log](/images/precheck_2nd_OK.png)
 
 
 # [SAR-ADC](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/submit_version)

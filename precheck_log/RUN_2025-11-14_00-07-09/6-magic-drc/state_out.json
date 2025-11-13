@@ -1,0 +1,7 @@
+{
+    "gds": "/home/ishikai/tools/gf180mcu-precheck/runs/RUN_2025-11-14_00-07-09/3-klayout-generateid/chip_top.gds",
+    "metrics": {
+        "klayout__density_error__count": 0,
+        "magic__drc_error__count": 0
+    }
+}

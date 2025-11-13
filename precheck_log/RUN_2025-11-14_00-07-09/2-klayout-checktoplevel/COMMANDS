@@ -1,0 +1,1 @@
+/nix/store/5fq98lrmhfma10j7bv85dfi3wxs9hddi-python3-3.12.10-env/bin/python3.12 /home/ishikai/tools/gf180mcu-precheck/scripts/klayout/check_top.py /home/ishikai/tools/gf180mcu-precheck/runs/RUN_2025-11-14_00-07-09/1-klayout-readlayout/chip_top.gds --top chip_top
