@@ -61,7 +61,7 @@ Please refer to the links below.
 
 
 ## Precheck Log
-- [precheck log](/precheck/)
+- [precheck log](/precheck_log/RUN_2025-11-14_00-07-09/)
 - ![precheck log](/images/precheck_2nd_OK.png)
 
 
