@@ -1,0 +1,208 @@
+{
+    "STD_CELL_LIBRARY": "gf180mcu_fd_sc_mcu7t5v0",
+    "VDD_PIN": "VDD",
+    "VDD_PIN_VOLTAGE": 5,
+    "GND_PIN": "VSS",
+    "TECH_LEFS": {
+        "nom_*": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/techlef/gf180mcu_fd_sc_mcu7t5v0__nom.tlef",
+        "min_*": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/techlef/gf180mcu_fd_sc_mcu7t5v0__min.tlef",
+        "max_*": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/techlef/gf180mcu_fd_sc_mcu7t5v0__max.tlef"
+    },
+    "PRIMARY_GDSII_STREAMOUT_TOOL": "magic",
+    "DEFAULT_MAX_TRAN": null,
+    "SIGNAL_WIRE_RC_LAYERS": [
+        "Metal2",
+        "Metal3",
+        "Metal4"
+    ],
+    "CLOCK_WIRE_RC_LAYERS": [
+        "Metal2",
+        "Metal3",
+        "Metal4"
+    ],
+    "DEFAULT_CORNER": "nom_tt_025C_5v00",
+    "STA_CORNERS": [
+        "nom_tt_025C_5v00",
+        "nom_ss_125C_4v50",
+        "nom_ff_n40C_5v50",
+        "min_tt_025C_5v00",
+        "min_ss_125C_4v50",
+        "min_ff_n40C_5v50",
+        "max_tt_025C_5v00",
+        "max_ss_125C_4v50",
+        "max_ff_n40C_5v50"
+    ],
+    "FP_IO_HLAYER": "Metal3",
+    "FP_IO_VLAYER": "Metal2",
+    "RT_MIN_LAYER": "Metal2",
+    "RT_MAX_LAYER": "Metal5",
+    "SCL_GROUND_PINS": [
+        "VSS",
+        "VPW"
+    ],
+    "SCL_POWER_PINS": [
+        "VDD",
+        "VNW"
+    ],
+    "TRISTATE_CELLS": [
+        "gf180mcu_fd_sc_mcu7t5v0__bufz*"
+    ],
+    "FILL_CELLS": [
+        "gf180mcu_fd_sc_mcu7t5v0__fill_*"
+    ],
+    "DECAP_CELLS": [
+        "gf180mcu_fd_sc_mcu7t5v0__fillcap_*"
+    ],
+    "LIB": {
+        "*_tt_025C_5v00": [
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/lib/gf180mcu_fd_sc_mcu7t5v0__tt_025C_5v00.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_ws_io__tt_025C_5v00.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_fd_io__tt_025C_5v00.lib"
+        ],
+        "*_ff_n40C_5v50": [
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/lib/gf180mcu_fd_sc_mcu7t5v0__ff_n40C_5v50.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_fd_io__ff_n40C_5v50.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_ws_io__ff_n40C_5v50.lib"
+        ],
+        "*_ss_125C_4v50": [
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/lib/gf180mcu_fd_sc_mcu7t5v0__ss_125C_4v50.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_fd_io__ss_125C_4v50.lib",
+            "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lib/gf180mcu_ws_io__ss_125C_4v50.lib"
+        ]
+    },
+    "CELL_LEFS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/lef/gf180mcu_fd_sc_mcu7t5v0.lef"
+    ],
+    "CELL_GDS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/gds/gf180mcu_fd_sc_mcu7t5v0.gds"
+    ],
+    "CELL_VERILOG_MODELS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/verilog/gf180mcu_fd_sc_mcu7t5v0.v"
+    ],
+    "CELL_BB_VERILOG_MODELS": null,
+    "CELL_SPICE_MODELS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/spice/gf180mcu_fd_sc_mcu7t5v0.spice"
+    ],
+    "CELL_CDLS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/cdl/gf180mcu_fd_sc_mcu7t5v0.cdl"
+    ],
+    "SYNTH_EXCLUDED_CELL_FILE": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/librelane/gf180mcu_fd_sc_mcu7t5v0/synth_exclude.cells",
+    "PNR_EXCLUDED_CELL_FILE": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/librelane/gf180mcu_fd_sc_mcu7t5v0/pnr_exclude.cells",
+    "OUTPUT_CAP_LOAD": 72.91,
+    "MAX_FANOUT_CONSTRAINT": 10,
+    "MAX_TRANSITION_CONSTRAINT": 3,
+    "MAX_CAPACITANCE_CONSTRAINT": 0.2,
+    "CLOCK_UNCERTAINTY_CONSTRAINT": 0.25,
+    "CLOCK_TRANSITION_CONSTRAINT": 0.15,
+    "TIME_DERATING_CONSTRAINT": 5,
+    "IO_DELAY_CONSTRAINT": 20,
+    "SYNTH_DRIVING_CELL": "gf180mcu_fd_sc_mcu7t5v0__inv_1/ZN",
+    "SYNTH_CLK_DRIVING_CELL": "gf180mcu_fd_sc_mcu7t5v0__inv_4/ZN",
+    "SYNTH_TIEHI_CELL": "gf180mcu_fd_sc_mcu7t5v0__tieh/Z",
+    "SYNTH_TIELO_CELL": "gf180mcu_fd_sc_mcu7t5v0__tiel/ZN",
+    "SYNTH_BUFFER_CELL": "gf180mcu_fd_sc_mcu7t5v0__buf_1/I/Z",
+    "PLACE_SITE": "GF018hv5v_mcu_sc7",
+    "CELL_PAD_EXCLUDE": [
+        "gf180mcu_fd_sc_mcu7t5v0__filltie",
+        "gf180mcu_fd_sc_mcu7t5v0__fill_*",
+        "gf180mcu_fd_sc_mcu7t5v0__endcap"
+    ],
+    "DIODE_CELL": "gf180mcu_fd_sc_mcu7t5v0__antenna/I",
+    "WELLTAP_CELL": "gf180mcu_fd_sc_mcu7t5v0__filltie",
+    "ENDCAP_CELL": "gf180mcu_fd_sc_mcu7t5v0__endcap",
+    "DESIGN_DIR": ".",
+    "PDK_ROOT": "/home/ishikai/gf180mcu-precheck/gf180mcu",
+    "DESIGN_NAME": "chip_top",
+    "PDK": "gf180mcuD",
+    "CLOCK_PERIOD": 10,
+    "CLOCK_PORT": null,
+    "CLOCK_NET": null,
+    "VDD_NETS": null,
+    "GND_NETS": null,
+    "DIE_AREA": null,
+    "EXTRA_EXCLUDED_CELLS": null,
+    "MACROS": null,
+    "EXTRA_LEFS": null,
+    "EXTRA_VERILOG_MODELS": null,
+    "EXTRA_SPICE_MODELS": null,
+    "EXTRA_CDLS": null,
+    "EXTRA_LIBS": null,
+    "EXTRA_GDS": null,
+    "FALLBACK_SDC": "/nix/store/drsavrr1sj0pghyi129b0j9qfm6ln9gd-python3-3.12.10-env/lib/python3.12/site-packages/librelane/scripts/base.sdc",
+    "PAD_GDS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/gds/gf180mcu_fd_io.gds",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/gds/gf180mcu_ef_io.gds",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/gds/gf180mcu_ws_io.gds"
+    ],
+    "PAD_LEFS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__dvss.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__in_s.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__fill1.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__cor.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__brk2.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__asig_5p0.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_ef_io__bi_t.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__fill10.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__bi_t.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__bi_24t.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__fillnc.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_ws_io__dvdd.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__in_c.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__dvdd.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__brk5.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_ws_io__dvss.lef",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/lef/gf180mcu_fd_io__fill5.lef"
+    ],
+    "PAD_VERILOG_MODELS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/verilog/gf180mcu_ef_io__blackbox.v",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/verilog/gf180mcu_ws_io__blackbox.v",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/verilog/gf180mcu_fd_io__blackbox.v"
+    ],
+    "PAD_SPICE_MODELS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/spice/gf180mcu_fd_io.spice",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/spice/gf180mcu_ws_io.spice",
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/spice/gf180mcu_ef_io.spice"
+    ],
+    "PAD_CDLS": [
+        "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.ref/gf180mcu_fd_io/cdl/gf180mcu_fd_io.cdl"
+    ],
+    "PAD_LIBS": null,
+    "PAD_CORNER": [
+        "gf180mcu_fd_io__cor"
+    ],
+    "PAD_FILLERS": [
+        "gf180mcu_fd_io__fill10",
+        "gf180mcu_fd_io__fill5",
+        "gf180mcu_fd_io__fill1",
+        "gf180mcu_fd_io__fillnc"
+    ],
+    "PAD_SITE_NAME": "GF_IO_Site",
+    "PAD_CORNER_SITE_NAME": "GF_COR_Site",
+    "PAD_FAKE_SITE_HEIGHT": 350,
+    "PAD_FAKE_SITE_WIDTH": 0.1,
+    "PAD_FAKE_CORNER_SITE_HEIGHT": 355,
+    "PAD_FAKE_CORNER_SITE_WIDTH": 355,
+    "PAD_BONDPAD_NAME": null,
+    "PAD_BONDPAD_WIDTH": null,
+    "PAD_BONDPAD_HEIGHT": null,
+    "PAD_BONDPAD_OFFSETS": null,
+    "PAD_PLACE_IO_TERMINALS": [
+        "gf180mcu_fd_io__asig_5p0/ASIG5V",
+        "gf180mcu_fd_io__bi_24t/PAD",
+        "gf180mcu_fd_io__bi_t/PAD",
+        "gf180mcu_fd_io__in_c/PAD",
+        "gf180mcu_fd_io__in_s/PAD",
+        "gf180mcu_fd_io__dvss/DVSS",
+        "gf180mcu_fd_io__dvdd/DVDD",
+        "gf180mcu_ws_io__dvss/DVSS",
+        "gf180mcu_ws_io__dvdd/DVDD"
+    ],
+    "PAD_EDGE_SPACING": 26,
+    "KLAYOUT_TECH": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/klayout/tech/gf180mcu.lyt",
+    "KLAYOUT_PROPERTIES": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/klayout/tech/gf180mcu.lyp",
+    "KLAYOUT_DEF_LAYER_MAP": "/home/ishikai/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/klayout/tech/gf180mcu.map",
+    "meta": {
+        "librelane_version": "3.0.0.dev43",
+        "step": "KLayout.CheckTopLevel"
+    }
+}
