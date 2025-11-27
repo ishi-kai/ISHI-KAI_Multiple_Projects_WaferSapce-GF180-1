@@ -1,0 +1,1 @@
+magic -dnull -noconsole -rcfile /home/ishikai/tools/gf180mcu-precheck/gf180mcu/gf180mcuD/libs.tech/magic/gf180mcuD.magicrc /nix/store/drsavrr1sj0pghyi129b0j9qfm6ln9gd-python3-3.12.10-env/lib/python3.12/site-packages/librelane/scripts/magic/wrapper.tcl

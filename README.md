@@ -61,8 +61,8 @@ Please refer to the links below.
 
 
 ## Precheck Log
-- [precheck log](/precheck_log/RUN_2025-11-27_10-26-31/)
-- ![precheck log](/images/precheck_5th_OK.png)
+- [precheck log](/precheck_log/RUN_2025-11-28_04-19-30/)
+- ![precheck log](/images/precheck_6th_OK.png)
 
 
 # [SAR-ADC](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/submit_version)
