@@ -1,0 +1,1 @@
+/nix/store/drsavrr1sj0pghyi129b0j9qfm6ln9gd-python3-3.12.10-env/bin/python3.12 /home/ishikai/tools/gf180mcu-precheck/scripts/klayout/generate_id.py /home/ishikai/tools/gf180mcu-precheck/runs/RUN_2025-11-27_10-26-31/01-klayout-readlayout/chip_top.gds /home/ishikai/tools/gf180mcu-precheck/runs/RUN_2025-11-27_10-26-31/03-klayout-generateid/chip_top.gds --id FFFFFFFF
