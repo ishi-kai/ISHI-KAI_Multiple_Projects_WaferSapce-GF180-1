@@ -1,0 +1,758 @@
+2025-12-07 07:43:04 +0900: Memory Usage (424784K) : Starting running GF180MCU Klayout DRC runset on /home/noritsuna/tools/gf180mcu-precheck/runs/RUN_2025-12-07_06-59-29/04-klayout-generateid/chip_top.gds
+2025-12-07 07:43:04 +0900: Memory Usage (424784K) : Ruby Version for klayout: 3.3.8
+2025-12-07 07:43:05 +0900: Memory Usage (610540K) : Loading database to memory is complete.
+2025-12-07 07:43:05 +0900: Memory Usage (610540K) : GF180MCU Klayout DRC runset output at: /home/noritsuna/tools/gf180mcu-precheck/runs/RUN_2025-12-07_06-59-29/13-klayout-drc/reports/drc.klayout.lyrdb
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Evaluate switches.
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : table_name selected  main
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : CONNECTIVITY_RULES enabled: true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Wedge enabled: true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Ball enabled: false
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Gold enabled: false
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : MIM Option selected: B
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Offgrid enabled:  true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Number of threads to use 16
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Verbose mode: 
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : deep  mode is enabled for main table
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : METAL_TOP Selected is 11K
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : METAL_STACK Selected is 5LM
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : FEOL enabled: true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : BEOL enabled: true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : DUMMY enabled: true
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : SLOW_VIA enabled: false
+2025-12-07 07:43:05 +0900: Memory Usage (610728K) : Read in polygons from layers.
+2025-12-07 07:43:06 +0900: Memory Usage (677716K) : comp has 113217 polygons
+2025-12-07 07:43:07 +0900: Memory Usage (677716K) : dnwell has 155 polygons
+2025-12-07 07:43:07 +0900: Memory Usage (691284K) : nwell has 10869 polygons
+2025-12-07 07:43:08 +0900: Memory Usage (691284K) : lvpwell has 52229 polygons
+2025-12-07 07:43:08 +0900: Memory Usage (691284K) : dualgate has 42158 polygons
+2025-12-07 07:43:09 +0900: Memory Usage (691284K) : poly2 has 83350 polygons
+2025-12-07 07:43:09 +0900: Memory Usage (691284K) : nplus has 46968 polygons
+2025-12-07 07:43:10 +0900: Memory Usage (691284K) : pplus has 50253 polygons
+2025-12-07 07:43:10 +0900: Memory Usage (691284K) : sab has 1382 polygons
+2025-12-07 07:43:10 +0900: Memory Usage (691284K) : esd has 0 polygons
+2025-12-07 07:43:11 +0900: Memory Usage (691284K) : resistor has 33 polygons
+2025-12-07 07:43:11 +0900: Memory Usage (691284K) : fhres has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : fusetop has 95 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : fusewindow_d has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : polyfuse has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : mvsd has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : mvpsd has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : nat has 0 polygons
+2025-12-07 07:43:12 +0900: Memory Usage (691284K) : comp_dummy has 206724 polygons
+2025-12-07 07:43:13 +0900: Memory Usage (691284K) : poly2_dummy has 205320 polygons
+2025-12-07 07:43:13 +0900: Memory Usage (691284K) : schottky_diode has 0 polygons
+2025-12-07 07:43:13 +0900: Memory Usage (691284K) : zener has 0 polygons
+2025-12-07 07:43:14 +0900: Memory Usage (691284K) : res_mk has 1015 polygons
+2025-12-07 07:43:14 +0900: Memory Usage (691284K) : opc_drc has 0 polygons
+2025-12-07 07:43:14 +0900: Memory Usage (691284K) : v5_xtor has 978 polygons
+2025-12-07 07:43:15 +0900: Memory Usage (691284K) : cap_mk has 95 polygons
+2025-12-07 07:43:15 +0900: Memory Usage (691284K) : mos_cap_mk has 36620 polygons
+2025-12-07 07:43:15 +0900: Memory Usage (691284K) : ind_mk has 0 polygons
+2025-12-07 07:43:16 +0900: Memory Usage (691284K) : diode_mk has 846 polygons
+2025-12-07 07:43:16 +0900: Memory Usage (691284K) : drc_bjt has 0 polygons
+2025-12-07 07:43:16 +0900: Memory Usage (691284K) : lvs_bjt has 0 polygons
+2025-12-07 07:43:17 +0900: Memory Usage (691284K) : mim_l_mk has 95 polygons
+2025-12-07 07:43:17 +0900: Memory Usage (691284K) : latchup_mk has 340 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : guard_ring_mk has 4 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : otp_mk has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : mtpmark has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : neo_ee_mk has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : sramcore has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : lvs_rf has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : lvs_drain has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : ind_mk has 0 polygons
+2025-12-07 07:43:18 +0900: Memory Usage (691284K) : hvpolyrs has 0 polygons
+2025-12-07 07:43:19 +0900: Memory Usage (691284K) : lvs_io has 28 polygons
+2025-12-07 07:43:19 +0900: Memory Usage (691284K) : probe_mk has 0 polygons
+2025-12-07 07:43:19 +0900: Memory Usage (691284K) : esd_mk has 28 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : lvs_source has 280 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : well_diode_mk has 0 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : ldmos_xtor has 0 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : plfuse has 0 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : efuse_mk has 0 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : mcell_feol_mk has 0 polygons
+2025-12-07 07:43:20 +0900: Memory Usage (691284K) : ymtp_mk has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : dev_wf_mk has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : comp_label has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : poly2_label has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : mdiode has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : ndmy has 0 polygons
+2025-12-07 07:43:21 +0900: Memory Usage (691284K) : pmndmy has 2 polygons
+2025-12-07 07:43:22 +0900: Memory Usage (712532K) : contact has 5974926 polygons
+2025-12-07 07:43:23 +0900: Memory Usage (712532K) : metal1_drawn has 606117 polygons
+2025-12-07 07:43:23 +0900: Memory Usage (712532K) : metal1_dummy has 1342705 polygons
+2025-12-07 07:43:24 +0900: Memory Usage (712716K) : metal1_label has 0 polygons
+2025-12-07 07:43:24 +0900: Memory Usage (712716K) : metal1_slot has 0 polygons
+2025-12-07 07:43:25 +0900: Memory Usage (712716K) : metal1_blk has 0 polygons
+2025-12-07 07:43:25 +0900: Memory Usage (725004K) : via1 has 1623091 polygons
+2025-12-07 07:43:26 +0900: Memory Usage (725004K) : metal2_drawn has 243930 polygons
+2025-12-07 07:43:26 +0900: Memory Usage (725004K) : metal2_dummy has 1343039 polygons
+2025-12-07 07:43:27 +0900: Memory Usage (725004K) : metal2_label has 126 polygons
+2025-12-07 07:43:27 +0900: Memory Usage (725004K) : metal2_slot has 0 polygons
+2025-12-07 07:43:27 +0900: Memory Usage (725004K) : metal2_blk has 0 polygons
+2025-12-07 07:43:28 +0900: Memory Usage (738700K) : via2 has 2519671 polygons
+2025-12-07 07:43:29 +0900: Memory Usage (738700K) : metal3_drawn has 152239 polygons
+2025-12-07 07:43:29 +0900: Memory Usage (738700K) : metal3_dummy has 1380942 polygons
+2025-12-07 07:43:30 +0900: Memory Usage (738700K) : metal3_label has 126 polygons
+2025-12-07 07:43:30 +0900: Memory Usage (738700K) : metal3_slot has 0 polygons
+2025-12-07 07:43:30 +0900: Memory Usage (738700K) : metal3_blk has 0 polygons
+2025-12-07 07:43:31 +0900: Memory Usage (738700K) : via3 has 10648564 polygons
+2025-12-07 07:43:32 +0900: Memory Usage (744844K) : metal4_drawn has 271204 polygons
+2025-12-07 07:43:32 +0900: Memory Usage (744844K) : metal4_dummy has 1381383 polygons
+2025-12-07 07:43:33 +0900: Memory Usage (749068K) : metal4_label has 0 polygons
+2025-12-07 07:43:33 +0900: Memory Usage (749068K) : metal4_slot has 0 polygons
+2025-12-07 07:43:33 +0900: Memory Usage (749068K) : metal4_blk has 0 polygons
+2025-12-07 07:43:34 +0900: Memory Usage (757260K) : via4 has 9534265 polygons
+2025-12-07 07:43:34 +0900: Memory Usage (763404K) : metal5_drawn has 222447 polygons
+2025-12-07 07:43:35 +0900: Memory Usage (763404K) : metal5_dummy has 828831 polygons
+2025-12-07 07:43:36 +0900: Memory Usage (765580K) : metal5_label has 1187 polygons
+2025-12-07 07:43:36 +0900: Memory Usage (765580K) : metal5_slot has 0 polygons
+2025-12-07 07:43:36 +0900: Memory Usage (765580K) : metal5_blk has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : pad has 325858 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : ubmpperi has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : ubmparray has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : ubmeplate has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal1_res has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal2_res has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal3_res has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal4_res has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal5_res has 0 polygons
+2025-12-07 07:43:37 +0900: Memory Usage (779148K) : metal6_res has 0 polygons
+2025-12-07 07:43:38 +0900: Memory Usage (779148K) : pr_bndry has 4368 polygons
+2025-12-07 07:43:38 +0900: Memory Usage (779148K) : border has 0 polygons
+2025-12-07 07:43:38 +0900: Memory Usage (779148K) : Total no. of polygons in the design is 39258103
+2025-12-07 07:43:38 +0900: Memory Usage (779148K) : Starting deriving base layers.
+2025-12-07 07:44:31 +0900: Memory Usage (910368K) : Construct connectivity for the design.
+2025-12-07 07:44:32 +0900: Memory Usage (910556K) : Connectivity rules enabled, Netlist object will be generated.
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Total area of the design is 20139704.0 um^2.
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Starting GF180MCU DRC rules.
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Running all FEOL rules
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Running all BEOL rules
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Running all DUMMY rules
+2025-12-07 07:44:57 +0900: Memory Usage (1182112K) : Starting comp derivations
+2025-12-07 07:45:29 +0900: Memory Usage (1254172K) : Executing rule DF.1a_LV
+2025-12-07 07:45:29 +0900: Memory Usage (1254436K) : Executing rule DF.1a_MV
+2025-12-07 07:45:31 +0900: Memory Usage (1254436K) : Executing rule DF.1c
+2025-12-07 07:45:32 +0900: Memory Usage (1254564K) : Executing rule DF.2a_LV
+2025-12-07 07:45:38 +0900: Memory Usage (1322480K) : Executing rule DF.2a_MV
+2025-12-07 07:45:43 +0900: Memory Usage (1330160K) : Executing rule DF.2b
+2025-12-07 07:45:47 +0900: Memory Usage (1330416K) : Executing rule DF.3a_LV
+2025-12-07 07:45:48 +0900: Memory Usage (1334120K) : Executing rule DF.3a_MV
+2025-12-07 07:45:49 +0900: Memory Usage (1333988K) : Executing rule DF.3b
+2025-12-07 07:45:52 +0900: Memory Usage (1357536K) : Executing rule DF.3c_LV
+2025-12-07 07:45:52 +0900: Memory Usage (1357536K) : Executing rule DF.3c_MV
+2025-12-07 07:45:52 +0900: Memory Usage (1357536K) : Executing rule DF.4a_LV
+2025-12-07 07:45:53 +0900: Memory Usage (1357536K) : Executing rule DF.4a_MV
+2025-12-07 07:45:54 +0900: Memory Usage (1357664K) : Executing rule DF.4b_LV
+2025-12-07 07:45:54 +0900: Memory Usage (1357792K) : Executing rule DF.4b_MV
+2025-12-07 07:45:55 +0900: Memory Usage (1357920K) : Executing rule DF.4c_LV
+2025-12-07 07:45:59 +0900: Memory Usage (1358940K) : Executing rule DF.4c_MV
+2025-12-07 07:46:02 +0900: Memory Usage (1358920K) : Executing rule DF.4d_LV
+2025-12-07 07:46:04 +0900: Memory Usage (1358792K) : Executing rule DF.4d_MV
+2025-12-07 07:46:06 +0900: Memory Usage (1358784K) : Executing rule DF.4e_LV
+2025-12-07 07:46:08 +0900: Memory Usage (1358912K) : Executing rule DF.4e_MV
+2025-12-07 07:46:08 +0900: Memory Usage (1358908K) : Executing rule DF.5_LV
+2025-12-07 07:46:10 +0900: Memory Usage (1359032K) : Executing rule DF.5_MV
+2025-12-07 07:46:12 +0900: Memory Usage (1359032K) : Executing rule DF.6_LV
+2025-12-07 07:46:17 +0900: Memory Usage (1397560K) : Executing rule DF.6_MV
+2025-12-07 07:46:19 +0900: Memory Usage (1397688K) : Executing rule DF.7_LV
+2025-12-07 07:46:20 +0900: Memory Usage (1397816K) : Executing rule DF.7_MV
+2025-12-07 07:46:22 +0900: Memory Usage (1397816K) : Executing rule DF.8_LV
+2025-12-07 07:46:25 +0900: Memory Usage (1397944K) : Executing rule DF.8_MV
+2025-12-07 07:46:29 +0900: Memory Usage (1397684K) : Executing rule DF.9
+2025-12-07 07:46:31 +0900: Memory Usage (1397684K) : Executing rule DF.10
+2025-12-07 07:46:37 +0900: Memory Usage (1492016K) : Executing rule DF.11
+2025-12-07 07:46:38 +0900: Memory Usage (1492016K) : Executing rule DF.12
+2025-12-07 07:46:41 +0900: Memory Usage (1501772K) : Preparations for rule DF.13_LV and DF.13_MV
+2025-12-07 07:47:54 +0900: Memory Usage (1504644K) : Executing rule DF.13_LV
+2025-12-07 07:47:56 +0900: Memory Usage (1504772K) : Executing rule DF.13_MV
+2025-12-07 07:47:57 +0900: Memory Usage (1504640K) : Executing rule DF.14_LV
+2025-12-07 07:48:01 +0900: Memory Usage (1504252K) : Executing rule DF.14_MV
+2025-12-07 07:48:05 +0900: Memory Usage (1504508K) : Executing rule DF.16_LV
+2025-12-07 07:48:09 +0900: Memory Usage (1504636K) : Executing rule DF.16_MV
+2025-12-07 07:48:12 +0900: Memory Usage (1505148K) : Executing rule DF.17_LV
+2025-12-07 07:48:20 +0900: Memory Usage (1520116K) : Executing rule DF.17_MV
+2025-12-07 07:48:23 +0900: Memory Usage (1520112K) : Executing rule DF.18
+2025-12-07 07:48:25 +0900: Memory Usage (1520112K) : Executing rule DF.19_LV
+2025-12-07 07:48:27 +0900: Memory Usage (1520236K) : Executing rule DF.19_MV
+2025-12-07 07:48:29 +0900: Memory Usage (1520364K) : Starting CONTACT derivations
+2025-12-07 07:52:25 +0900: Memory Usage (3319948K) : Executing rule CO.1
+2025-12-07 07:52:44 +0900: Memory Usage (2078484K) : Executing rule CO.2a
+2025-12-07 07:52:46 +0900: Memory Usage (2152724K) : Executing rule CO.2b
+2025-12-07 07:53:07 +0900: Memory Usage (2254936K) : Executing rule CO.3
+2025-12-07 07:53:16 +0900: Memory Usage (2278428K) : Executing rule CO.4
+2025-12-07 07:53:24 +0900: Memory Usage (2455388K) : Executing rule CO.5a
+2025-12-07 07:53:27 +0900: Memory Usage (2455508K) : Executing rule CO.5b
+2025-12-07 07:53:32 +0900: Memory Usage (2457420K) : Executing rule CO.6
+2025-12-07 07:53:43 +0900: Memory Usage (2560640K) : Executing rule CO.6a
+2025-12-07 07:57:22 +0900: Memory Usage (2591668K) : Executing rule CO.6b
+2025-12-07 07:57:54 +0900: Memory Usage (2704184K) : Executing rule CO.7
+2025-12-07 07:58:05 +0900: Memory Usage (2676172K) : Executing rule CO.8
+2025-12-07 07:58:08 +0900: Memory Usage (2676428K) : Executing rule CO.9
+2025-12-07 07:58:10 +0900: Memory Usage (2676740K) : Executing rule CO.10
+2025-12-07 07:58:11 +0900: Memory Usage (2676604K) : Executing rule CO.11
+2025-12-07 07:58:16 +0900: Memory Usage (2731728K) : Executing rule DN.1
+2025-12-07 07:58:16 +0900: Memory Usage (2731728K) : CONNECTIVITY_RULES section
+2025-12-07 07:58:25 +0900: Memory Usage (2732172K) : Executing rule DN.2a
+2025-12-07 07:58:25 +0900: Memory Usage (2732172K) : Executing rule DN.2b
+2025-12-07 07:58:25 +0900: Memory Usage (2732172K) : Executing rule DN.3
+2025-12-07 07:58:38 +0900: Memory Usage (2752644K) : Executing rule BJT.1
+2025-12-07 07:58:44 +0900: Memory Usage (2752772K) : Executing rule BJT.2
+2025-12-07 07:58:45 +0900: Memory Usage (2752900K) : Executing rule BJT.3
+2025-12-07 07:58:46 +0900: Memory Usage (2752900K) : Executing rule DV.1
+2025-12-07 07:58:50 +0900: Memory Usage (2753028K) : Executing rule DV.2
+2025-12-07 07:58:50 +0900: Memory Usage (2752768K) : Executing rule DV.3
+2025-12-07 07:58:52 +0900: Memory Usage (2754432K) : Executing rule DV.5
+2025-12-07 07:59:12 +0900: Memory Usage (2656508K) : Executing rule DV.6
+2025-12-07 07:59:15 +0900: Memory Usage (2656892K) : Executing rule DV.7
+2025-12-07 07:59:17 +0900: Memory Usage (2657148K) : Executing rule DV.8
+2025-12-07 07:59:21 +0900: Memory Usage (2657276K) : Executing rule DV.9
+2025-12-07 07:59:26 +0900: Memory Usage (2657660K) : Starting EFUSE derivations
+2025-12-07 07:59:28 +0900: Memory Usage (2657660K) : Executing rule EF.01
+2025-12-07 07:59:29 +0900: Memory Usage (2657660K) : Executing rule EF.02
+2025-12-07 07:59:30 +0900: Memory Usage (2657528K) : Executing rule EF.03
+2025-12-07 07:59:32 +0900: Memory Usage (2657396K) : Executing rule EF.04a
+2025-12-07 07:59:33 +0900: Memory Usage (2657396K) : Executing rule EF.04b
+2025-12-07 07:59:34 +0900: Memory Usage (2657396K) : Executing rule EF.04c
+2025-12-07 07:59:34 +0900: Memory Usage (2657396K) : Executing rule EF.04d
+2025-12-07 07:59:34 +0900: Memory Usage (2657396K) : Executing rule EF.05
+2025-12-07 07:59:36 +0900: Memory Usage (2657524K) : Executing rule EF.06
+2025-12-07 07:59:37 +0900: Memory Usage (2657392K) : Executing rule EF.07
+2025-12-07 07:59:38 +0900: Memory Usage (2657392K) : Executing rule EF.08
+2025-12-07 07:59:39 +0900: Memory Usage (2657640K) : Executing rule EF.09
+2025-12-07 07:59:39 +0900: Memory Usage (2657640K) : Executing rule EF.10
+2025-12-07 07:59:39 +0900: Memory Usage (2657640K) : Executing rule EF.11
+2025-12-07 07:59:39 +0900: Memory Usage (2657640K) : Executing rule EF.12
+2025-12-07 07:59:40 +0900: Memory Usage (2657640K) : Executing rule EF.13
+2025-12-07 07:59:40 +0900: Memory Usage (2657640K) : Executing rule EF.14
+2025-12-07 07:59:40 +0900: Memory Usage (2657640K) : Executing rule EF.15
+2025-12-07 07:59:41 +0900: Memory Usage (2657640K) : Executing rule EF.16a
+2025-12-07 07:59:41 +0900: Memory Usage (2657640K) : Executing rule EF.16b
+2025-12-07 07:59:41 +0900: Memory Usage (2657640K) : Executing rule EF.17
+2025-12-07 07:59:41 +0900: Memory Usage (2657640K) : Executing rule EF.18
+2025-12-07 07:59:46 +0900: Memory Usage (2657640K) : Executing rule EF.19
+2025-12-07 07:59:47 +0900: Memory Usage (2657640K) : Executing rule EF.20
+2025-12-07 07:59:51 +0900: Memory Usage (2657640K) : Executing rule EF.21
+2025-12-07 07:59:53 +0900: Memory Usage (2657768K) : Executing rule EF.22a
+2025-12-07 07:59:53 +0900: Memory Usage (2657512K) : Executing rule EF.22b
+2025-12-07 07:59:54 +0900: Memory Usage (2657380K) : Starting ESD derivations
+2025-12-07 07:59:55 +0900: Memory Usage (2657508K) : Executing rule ESD.1
+2025-12-07 07:59:55 +0900: Memory Usage (2657508K) : Executing rule ESD.2
+2025-12-07 07:59:55 +0900: Memory Usage (2657508K) : Executing rule ESD.3a
+2025-12-07 07:59:56 +0900: Memory Usage (2657508K) : Executing rule ESD.3b
+2025-12-07 07:59:56 +0900: Memory Usage (2657508K) : Executing rule ESD.4a
+2025-12-07 07:59:57 +0900: Memory Usage (2657764K) : Executing rule ESD.4b
+2025-12-07 07:59:57 +0900: Memory Usage (2657764K) : Executing rule ESD.5a
+2025-12-07 07:59:58 +0900: Memory Usage (2657764K) : Executing rule ESD.5b
+2025-12-07 07:59:58 +0900: Memory Usage (2657764K) : Executing rule ESD.6
+2025-12-07 08:00:00 +0900: Memory Usage (2657632K) : Executing rule ESD.7
+2025-12-07 08:00:00 +0900: Memory Usage (2657632K) : Executing rule ESD.8
+2025-12-07 08:00:03 +0900: Memory Usage (2657632K) : Executing rule ESD.pl
+2025-12-07 08:00:05 +0900: Memory Usage (2657760K) : Executing rule ESD.9
+2025-12-07 08:00:06 +0900: Memory Usage (2657760K) : Executing rule ESD.10
+2025-12-07 08:00:06 +0900: Memory Usage (2657760K) : OFFGRID-ANGLES section
+2025-12-07 08:00:06 +0900: Memory Usage (2657760K) : Executing rule comp_OFFGRID
+2025-12-07 08:00:09 +0900: Memory Usage (2661856K) : Executing rule dnwell_OFFGRID
+2025-12-07 08:00:11 +0900: Memory Usage (2661856K) : Executing rule nwell_OFFGRID
+2025-12-07 08:00:14 +0900: Memory Usage (2661856K) : Executing rule lvpwell_OFFGRID
+2025-12-07 08:00:15 +0900: Memory Usage (2661856K) : Executing rule dualgate_OFFGRID
+2025-12-07 08:00:17 +0900: Memory Usage (2661856K) : Executing rule poly2_OFFGRID
+2025-12-07 08:00:19 +0900: Memory Usage (2661856K) : Executing rule nplus_OFFGRID
+2025-12-07 08:00:22 +0900: Memory Usage (2661856K) : Executing rule pplus_OFFGRID
+2025-12-07 08:00:26 +0900: Memory Usage (2661856K) : Executing rule sab_OFFGRID
+2025-12-07 08:00:28 +0900: Memory Usage (2661856K) : Executing rule esd_OFFGRID
+2025-12-07 08:00:29 +0900: Memory Usage (2661856K) : Executing rule resistor_OFFGRID
+2025-12-07 08:00:31 +0900: Memory Usage (2661856K) : Executing rule fhres_OFFGRID
+2025-12-07 08:00:32 +0900: Memory Usage (2661856K) : Executing rule fusetop_OFFGRID
+2025-12-07 08:00:34 +0900: Memory Usage (2661856K) : Executing rule fusewindow_d_OFFGRID
+2025-12-07 08:00:36 +0900: Memory Usage (2661856K) : Executing rule polyfuse_OFFGRID
+2025-12-07 08:00:36 +0900: Memory Usage (2661856K) : Executing rule mvsd_OFFGRID
+2025-12-07 08:00:37 +0900: Memory Usage (2661856K) : Executing rule mvpsd_OFFGRID
+2025-12-07 08:00:38 +0900: Memory Usage (2661856K) : Executing rule nat_OFFGRID
+2025-12-07 08:00:38 +0900: Memory Usage (2661856K) : Executing rule comp_dummy_OFFGRID
+2025-12-07 08:00:41 +0900: Memory Usage (2661856K) : Executing rule poly2_dummy_OFFGRID
+2025-12-07 08:00:44 +0900: Memory Usage (2661856K) : Executing rule schottky_diode_OFFGRID
+2025-12-07 08:00:45 +0900: Memory Usage (2661856K) : Executing rule zener_OFFGRID
+2025-12-07 08:00:46 +0900: Memory Usage (2661856K) : Executing rule res_mk_OFFGRID
+2025-12-07 08:00:48 +0900: Memory Usage (2661856K) : Executing rule opc_drc_OFFGRID
+2025-12-07 08:00:49 +0900: Memory Usage (2661856K) : Executing rule ndmy_OFFGRID
+2025-12-07 08:00:50 +0900: Memory Usage (2661856K) : Executing rule pmndmy_OFFGRID
+2025-12-07 08:00:52 +0900: Memory Usage (2661856K) : Executing rule v5_xtor_OFFGRID
+2025-12-07 08:00:54 +0900: Memory Usage (2661856K) : Executing rule cap_mk_OFFGRID
+2025-12-07 08:00:57 +0900: Memory Usage (2661856K) : Executing rule mos_cap_mk_OFFGRID
+2025-12-07 08:01:00 +0900: Memory Usage (2661856K) : Executing rule ind_mk_OFFGRID
+2025-12-07 08:01:01 +0900: Memory Usage (2661856K) : Executing rule diode_mk_OFFGRID
+2025-12-07 08:01:03 +0900: Memory Usage (2661856K) : Executing rule drc_bjt_OFFGRID
+2025-12-07 08:01:04 +0900: Memory Usage (2661856K) : Executing rule lvs_bjt_OFFGRID
+2025-12-07 08:01:05 +0900: Memory Usage (2661856K) : Executing rule mim_l_mk_OFFGRID
+2025-12-07 08:01:07 +0900: Memory Usage (2661856K) : Executing rule latchup_mk_OFFGRID
+2025-12-07 08:01:09 +0900: Memory Usage (2661856K) : Executing rule guard_ring_mk_OFFGRID
+2025-12-07 08:01:13 +0900: Memory Usage (2661856K) : Executing rule otp_mk_OFFGRID
+2025-12-07 08:01:13 +0900: Memory Usage (2661856K) : Executing rule mtpmark_OFFGRID
+2025-12-07 08:01:14 +0900: Memory Usage (2661856K) : Executing rule neo_ee_mk_OFFGRID
+2025-12-07 08:01:15 +0900: Memory Usage (2661856K) : Executing rule sramcore_OFFGRID
+2025-12-07 08:01:16 +0900: Memory Usage (2661856K) : Executing rule lvs_rf_OFFGRID
+2025-12-07 08:01:16 +0900: Memory Usage (2661856K) : Executing rule lvs_drain_OFFGRID
+2025-12-07 08:01:17 +0900: Memory Usage (2661856K) : Executing rule ind_mk_OFFGRID
+2025-12-07 08:01:18 +0900: Memory Usage (2662012K) : Executing rule hvpolyrs_OFFGRID
+2025-12-07 08:01:19 +0900: Memory Usage (2662012K) : Executing rule lvs_io_OFFGRID
+2025-12-07 08:01:21 +0900: Memory Usage (2662012K) : Executing rule probe_mk_OFFGRID
+2025-12-07 08:01:22 +0900: Memory Usage (2662012K) : Executing rule esd_mk_OFFGRID
+2025-12-07 08:01:24 +0900: Memory Usage (2662012K) : Executing rule lvs_source_OFFGRID
+2025-12-07 08:01:27 +0900: Memory Usage (2662012K) : Executing rule well_diode_mk_OFFGRID
+2025-12-07 08:01:28 +0900: Memory Usage (2662012K) : Executing rule ldmos_xtor_OFFGRID
+2025-12-07 08:01:29 +0900: Memory Usage (2662012K) : Executing rule plfuse_OFFGRID
+2025-12-07 08:01:29 +0900: Memory Usage (2662012K) : Executing rule efuse_mk_OFFGRID
+2025-12-07 08:01:30 +0900: Memory Usage (2662012K) : Executing rule mcell_feol_mk_OFFGRID
+2025-12-07 08:01:31 +0900: Memory Usage (2662012K) : Executing rule ymtp_mk_OFFGRID
+2025-12-07 08:01:31 +0900: Memory Usage (2662012K) : Executing rule dev_wf_mk_OFFGRID
+2025-12-07 08:01:32 +0900: Memory Usage (2662012K) : Executing rule comp_label_OFFGRID
+2025-12-07 08:01:33 +0900: Memory Usage (2662012K) : Executing rule poly2_label_OFFGRID
+2025-12-07 08:01:34 +0900: Memory Usage (2662012K) : Executing rule mdiode_OFFGRID
+2025-12-07 08:01:34 +0900: Memory Usage (2662012K) : Executing rule contact_OFFGRID
+2025-12-07 08:01:38 +0900: Memory Usage (2662012K) : Executing rule metal1_OFFGRID
+2025-12-07 08:01:40 +0900: Memory Usage (2662012K) : Executing rule metal1_slot_OFFGRID
+2025-12-07 08:01:41 +0900: Memory Usage (2662012K) : Executing rule metal1_blk_OFFGRID
+2025-12-07 08:01:42 +0900: Memory Usage (2662012K) : Executing rule metal1_label_OFFGRID
+2025-12-07 08:01:42 +0900: Memory Usage (2662012K) : Executing rule via1_OFFGRID
+2025-12-07 08:01:49 +0900: Memory Usage (2662012K) : Executing rule metal2_OFFGRID
+2025-12-07 08:03:36 +0900: Memory Usage (2662012K) : Executing rule metal2_label_OFFGRID
+2025-12-07 08:03:39 +0900: Memory Usage (2662012K) : Executing rule metal2_slot_OFFGRID
+2025-12-07 08:03:40 +0900: Memory Usage (2662012K) : Executing rule metal2_blk_OFFGRID
+2025-12-07 08:03:41 +0900: Memory Usage (2662012K) : Executing rule via2_OFFGRID
+2025-12-07 08:03:47 +0900: Memory Usage (2662028K) : Executing rule metal3_OFFGRID
+2025-12-07 08:05:39 +0900: Memory Usage (2675468K) : Executing rule metal3_dummy_OFFGRID
+2025-12-07 08:07:27 +0900: Memory Usage (2675468K) : Executing rule metal3_label_OFFGRID
+2025-12-07 08:07:30 +0900: Memory Usage (2675468K) : Executing rule metal3_blk_OFFGRID
+2025-12-07 08:07:31 +0900: Memory Usage (2675468K) : Executing rule via3_OFFGRID
+2025-12-07 08:07:39 +0900: Memory Usage (2675468K) : Executing rule metal4_OFFGRID
+2025-12-07 08:09:30 +0900: Memory Usage (2675468K) : Executing rule metal4_dummy_OFFGRID
+2025-12-07 08:11:18 +0900: Memory Usage (2675468K) : Executing rule metal4_label_OFFGRID
+2025-12-07 08:11:19 +0900: Memory Usage (2675468K) : Executing rule metal4_blk_OFFGRID
+2025-12-07 08:11:20 +0900: Memory Usage (2675468K) : Executing rule via4_OFFGRID
+2025-12-07 08:11:28 +0900: Memory Usage (2675468K) : Executing rule metal5_OFFGRID
+2025-12-07 08:11:38 +0900: Memory Usage (2675468K) : Executing rule metal5_dummy_OFFGRID
+2025-12-07 08:11:43 +0900: Memory Usage (2675468K) : Executing rule metal5_label_OFFGRID
+2025-12-07 08:11:46 +0900: Memory Usage (2675468K) : Executing rule metal5_blk_OFFGRID
+2025-12-07 08:11:47 +0900: Memory Usage (2675468K) : Executing rule pad_OFFGRID
+2025-12-07 08:11:51 +0900: Memory Usage (2675468K) : Executing rule ubmpperi_OFFGRID
+2025-12-07 08:11:51 +0900: Memory Usage (2675468K) : Executing rule ubmparray_OFFGRID
+2025-12-07 08:11:52 +0900: Memory Usage (2675468K) : Executing rule ubmeplate_OFFGRID
+2025-12-07 08:11:53 +0900: Memory Usage (2675468K) : Executing rule metal1_res_OFFGRID
+2025-12-07 08:11:54 +0900: Memory Usage (2675468K) : Executing rule metal2_res_OFFGRID
+2025-12-07 08:11:54 +0900: Memory Usage (2675468K) : Executing rule metal3_res_OFFGRID
+2025-12-07 08:11:55 +0900: Memory Usage (2675468K) : Executing rule metal4_res_OFFGRID
+2025-12-07 08:11:56 +0900: Memory Usage (2675468K) : Executing rule metal5_res_OFFGRID
+2025-12-07 08:11:56 +0900: Memory Usage (2675468K) : Executing rule metal6_res_OFFGRID
+2025-12-07 08:11:57 +0900: Memory Usage (2675468K) : Executing rule pr_bndry_OFFGRID
+2025-12-07 08:11:59 +0900: Memory Usage (2675468K) : Executing rule border_OFFGRID
+2025-12-07 08:11:59 +0900: Memory Usage (2675468K) : Starting HRES derivations
+2025-12-07 08:12:04 +0900: Memory Usage (2680700K) : Executing rule HRES.1
+2025-12-07 08:12:05 +0900: Memory Usage (2680828K) : Executing rule HRES.2
+2025-12-07 08:12:05 +0900: Memory Usage (2680828K) : Executing rule HRES.3
+2025-12-07 08:12:05 +0900: Memory Usage (2680956K) : Executing rule HRES.4
+2025-12-07 08:12:07 +0900: Memory Usage (2680828K) : Executing rule HRES.5
+2025-12-07 08:12:08 +0900: Memory Usage (2681084K) : Executing rule HRES.6
+2025-12-07 08:12:09 +0900: Memory Usage (2680824K) : Executing rule HRES.7
+2025-12-07 08:12:11 +0900: Memory Usage (2680952K) : Executing rule HRES.8
+2025-12-07 08:12:12 +0900: Memory Usage (2681076K) : Executing rule HRES.9
+2025-12-07 08:12:20 +0900: Memory Usage (2681072K) : Executing rule HRES.10
+2025-12-07 08:12:27 +0900: Memory Usage (2682608K) : Executing rule HRES.12a
+2025-12-07 08:12:33 +0900: Memory Usage (2689392K) : Executing rule HRES.12b
+2025-12-07 08:12:35 +0900: Memory Usage (2689392K) : Starting 10V LDNMOS derivations
+2025-12-07 08:12:38 +0900: Memory Usage (2689520K) : Executing rule MDN.1
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : CONNECTIVITY_RULES section
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : Executing rule MDN.2a
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : Executing rule MDN.2b
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : Executing rule MDN.3a
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : Executing rule MDN.3b
+2025-12-07 08:12:39 +0900: Memory Usage (2689520K) : Executing rule MDN.4a
+2025-12-07 08:12:40 +0900: Memory Usage (2689520K) : Executing rule MDN.4b
+2025-12-07 08:12:40 +0900: Memory Usage (2689520K) : Executing rule MDN.5ai
+2025-12-07 08:12:40 +0900: Memory Usage (2689520K) : Executing rule MDN.5aii
+2025-12-07 08:12:41 +0900: Memory Usage (2689520K) : Executing rule MDN.5b
+2025-12-07 08:12:41 +0900: Memory Usage (2689520K) : Executing rule MDN.5c
+2025-12-07 08:12:42 +0900: Memory Usage (2689132K) : Executing rule MDN.6
+2025-12-07 08:12:44 +0900: Memory Usage (2689132K) : Executing rule MDN.6a
+2025-12-07 08:12:44 +0900: Memory Usage (2689132K) : Executing rule MDN.7
+2025-12-07 08:12:45 +0900: Memory Usage (2689132K) : Executing rule MDN.7a
+2025-12-07 08:12:46 +0900: Memory Usage (2689132K) : CONNECTIVITY_RULES section
+2025-12-07 08:12:47 +0900: Memory Usage (2689132K) : Executing rule MDN.8a
+2025-12-07 08:12:48 +0900: Memory Usage (2689132K) : Executing rule MDN.8b
+2025-12-07 08:12:48 +0900: Memory Usage (2689132K) : Executing rule MDN.9
+2025-12-07 08:12:49 +0900: Memory Usage (2689132K) : Executing rule MDN.10a
+2025-12-07 08:12:50 +0900: Memory Usage (2689260K) : Executing rule MDN.10b
+2025-12-07 08:12:53 +0900: Memory Usage (2689256K) : Executing rule MDN.10c
+2025-12-07 08:12:54 +0900: Memory Usage (2689128K) : Executing rule MDN.10d
+2025-12-07 08:13:03 +0900: Memory Usage (2689508K) : Executing rule MDN.10ei
+2025-12-07 08:13:06 +0900: Memory Usage (2689376K) : Executing rule MDN.10eii
+2025-12-07 08:13:07 +0900: Memory Usage (2689504K) : Executing rule MDN.10f
+2025-12-07 08:13:09 +0900: Memory Usage (2689504K) : Executing rule MDN.11
+2025-12-07 08:13:12 +0900: Memory Usage (2689760K) : Executing rule MDN.12
+2025-12-07 08:13:14 +0900: Memory Usage (2689888K) : Executing rule MDN.13a
+2025-12-07 08:13:14 +0900: Memory Usage (2689760K) : Executing rule MDN.13b
+2025-12-07 08:13:17 +0900: Memory Usage (2689360K) : Executing rule MDN.13c
+2025-12-07 08:13:18 +0900: Memory Usage (2689100K) : Executing rule MDN.13d
+2025-12-07 08:13:22 +0900: Memory Usage (2689100K) : Executing rule MDN.14
+2025-12-07 08:13:22 +0900: Memory Usage (2689100K) : Executing rule MDN.15a
+2025-12-07 08:13:23 +0900: Memory Usage (2689100K) : Executing rule MDN.15b
+2025-12-07 08:13:23 +0900: Memory Usage (2689100K) : Executing rule MDN.17
+2025-12-07 08:13:27 +0900: Memory Usage (2693836K) : Executing rule MDP.1
+2025-12-07 08:13:28 +0900: Memory Usage (2693836K) : Executing rule MDP.1a
+2025-12-07 08:13:28 +0900: Memory Usage (2693836K) : Executing rule MDP.2
+2025-12-07 08:13:28 +0900: Memory Usage (2693836K) : Executing rule MDP.3
+2025-12-07 08:13:31 +0900: Memory Usage (2693964K) : Executing rule MDP.3ai
+2025-12-07 08:13:33 +0900: Memory Usage (2693836K) : Executing rule MDP.3aii
+2025-12-07 08:13:35 +0900: Memory Usage (2693964K) : Executing rule MDP.3b
+2025-12-07 08:13:36 +0900: Memory Usage (2694092K) : Executing rule MDP.3c
+2025-12-07 08:13:40 +0900: Memory Usage (2693956K) : Executing rule MDP.3d
+2025-12-07 08:13:41 +0900: Memory Usage (2693956K) : Executing rule MDP.4
+2025-12-07 08:14:08 +0900: Memory Usage (3524764K) : Executing rule MDP.4a
+2025-12-07 08:14:09 +0900: Memory Usage (3524764K) : Executing rule MDP.4b
+2025-12-07 08:14:11 +0900: Memory Usage (3524888K) : Executing rule MDP.5
+2025-12-07 08:14:15 +0900: Memory Usage (3525016K) : Executing rule MDP.5a
+2025-12-07 08:14:16 +0900: Memory Usage (3525016K) : Executing rule MDP.6
+2025-12-07 08:14:16 +0900: Memory Usage (3525016K) : Executing rule MDP.6a
+2025-12-07 08:14:16 +0900: Memory Usage (3525016K) : Executing rule MDP.7
+2025-12-07 08:14:17 +0900: Memory Usage (3525016K) : Executing rule MDP.8
+2025-12-07 08:14:18 +0900: Memory Usage (3525016K) : Executing rule MDP.9a
+2025-12-07 08:14:18 +0900: Memory Usage (3525016K) : Executing rule MDP.9b
+2025-12-07 08:14:21 +0900: Memory Usage (3525008K) : Executing rule MDP.9c
+2025-12-07 08:14:23 +0900: Memory Usage (3525132K) : Executing rule MDP.9d
+2025-12-07 08:14:36 +0900: Memory Usage (3408148K) : Executing rule MDP.9ei
+2025-12-07 08:14:36 +0900: Memory Usage (3408148K) : Executing rule MDP.9eii
+2025-12-07 08:14:39 +0900: Memory Usage (3218248K) : Executing rule MDP.9f
+2025-12-07 08:14:41 +0900: Memory Usage (3218244K) : Executing rule MDP.10
+2025-12-07 08:14:42 +0900: Memory Usage (3218244K) : CONNECTIVITY_RULES section
+2025-12-07 08:14:42 +0900: Memory Usage (3218244K) : Executing rule MDP.10a
+2025-12-07 08:14:42 +0900: Memory Usage (3218244K) : Executing rule MDP.10b
+2025-12-07 08:14:42 +0900: Memory Usage (3218244K) : Executing rule MDP.11
+2025-12-07 08:14:46 +0900: Memory Usage (3218236K) : Executing rule MDP.12
+2025-12-07 08:14:49 +0900: Memory Usage (3218364K) : Executing rule MDP.13a
+2025-12-07 08:14:52 +0900: Memory Usage (3218364K) : Executing rule MDP.13b
+2025-12-07 08:14:53 +0900: Memory Usage (3218364K) : Executing rule MDP.13c
+2025-12-07 08:14:55 +0900: Memory Usage (3218364K) : Executing rule MDP.15
+2025-12-07 08:14:56 +0900: Memory Usage (3218364K) : Executing rule MDP.16a
+2025-12-07 08:14:56 +0900: Memory Usage (3218364K) : Executing rule MDP.16b
+2025-12-07 08:14:57 +0900: Memory Usage (3218364K) : Executing rule MDP.17a
+2025-12-07 08:15:00 +0900: Memory Usage (3218488K) : Executing rule MDP.17c
+2025-12-07 08:15:01 +0900: Memory Usage (3218488K) : Starting LRES derivations
+2025-12-07 08:15:03 +0900: Memory Usage (3218096K) : Executing rule LRES.1
+2025-12-07 08:15:04 +0900: Memory Usage (3218096K) : Executing rule LRES.2
+2025-12-07 08:15:04 +0900: Memory Usage (3218096K) : Executing rule LRES.3
+2025-12-07 08:15:04 +0900: Memory Usage (3218096K) : Executing rule LRES.4
+2025-12-07 08:15:05 +0900: Memory Usage (3218224K) : Executing rule LRES.5
+2025-12-07 08:15:06 +0900: Memory Usage (3218224K) : Executing rule LRES.6
+2025-12-07 08:15:06 +0900: Memory Usage (3218224K) : Executing rule LRES.7
+2025-12-07 08:15:07 +0900: Memory Usage (3218224K) : Executing rule LRES.9a
+2025-12-07 08:15:11 +0900: Memory Usage (3218220K) : Executing rule LRES.9b
+2025-12-07 08:15:12 +0900: Memory Usage (3218220K) : Starting LVPWELL derivations
+2025-12-07 08:15:13 +0900: Memory Usage (3218348K) : Executing rule LPW.1_LV
+2025-12-07 08:15:13 +0900: Memory Usage (3218348K) : Executing rule LPW.1_MV
+2025-12-07 08:15:14 +0900: Memory Usage (3218348K) : CONNECTIVITY_RULES section
+2025-12-07 08:15:16 +0900: Memory Usage (3218476K) : Executing rule LPW.2a_LV
+2025-12-07 08:15:16 +0900: Memory Usage (3218476K) : Executing rule LPW.2a_MV
+2025-12-07 08:15:16 +0900: Memory Usage (3218476K) : Executing rule LPW.2b_LV
+2025-12-07 08:15:17 +0900: Memory Usage (3218476K) : Executing rule LPW.2b_MV
+2025-12-07 08:15:17 +0900: Memory Usage (3218476K) : Executing rule LPW.3_LV
+2025-12-07 08:15:18 +0900: Memory Usage (3218088K) : Executing rule LPW.5
+2025-12-07 08:15:22 +0900: Memory Usage (3218344K) : Executing rule LPW.11
+2025-12-07 08:15:24 +0900: Memory Usage (3218472K) : Executing rule LPW.12
+2025-12-07 08:15:25 +0900: Memory Usage (3218340K) : Executing rule LVS_BJT.1
+2025-12-07 08:15:26 +0900: Memory Usage (3218340K) : Executing rule MC.1
+2025-12-07 08:15:26 +0900: Memory Usage (3218340K) : Executing rule MC.2
+2025-12-07 08:15:26 +0900: Memory Usage (3218340K) : Executing rule MC.3
+2025-12-07 08:15:26 +0900: Memory Usage (3218340K) : Executing rule MC.4
+2025-12-07 08:15:26 +0900: Memory Usage (3218340K) : Executing rule M1.1
+2025-12-07 08:17:15 +0900: Memory Usage (3218340K) : Executing rule M1.2a
+2025-12-07 08:20:46 +0900: Memory Usage (3457772K) : Executing rule M1.2b
+2025-12-07 08:21:12 +0900: Memory Usage (3458420K) : Executing rule M1.3
+2025-12-07 08:21:12 +0900: Memory Usage (3458420K) : Executing rule M2.1
+2025-12-07 08:21:13 +0900: Memory Usage (3458420K) : Executing rule M2.2a
+2025-12-07 08:25:10 +0900: Memory Usage (3893304K) : Executing rule M2.2b
+2025-12-07 08:25:32 +0900: Memory Usage (3883112K) : Executing rule M2.3
+2025-12-07 08:25:33 +0900: Memory Usage (3883112K) : Executing rule M3.1
+2025-12-07 08:25:33 +0900: Memory Usage (3883112K) : Executing rule M3.2a
+2025-12-07 08:29:26 +0900: Memory Usage (4325768K) : Executing rule M3.2b
+2025-12-07 08:29:59 +0900: Memory Usage (4469100K) : Executing rule M3.3
+2025-12-07 08:29:59 +0900: Memory Usage (4469100K) : Executing rule M4.1
+2025-12-07 08:30:00 +0900: Memory Usage (4469100K) : Executing rule M4.2a
+2025-12-07 08:33:58 +0900: Memory Usage (5386972K) : Executing rule M4.2b
+2025-12-07 08:34:32 +0900: Memory Usage (4916844K) : Executing rule M4.3
+2025-12-07 08:34:33 +0900: Memory Usage (4916844K) : MetalTop thickness 9k/11k section
+2025-12-07 08:34:33 +0900: Memory Usage (4916844K) : Executing rule MT.1
+2025-12-07 08:34:33 +0900: Memory Usage (4916844K) : Executing rule MT.2a
+2025-12-07 08:34:47 +0900: Memory Usage (4830276K) : Executing rule MT.2b
+2025-12-07 08:35:09 +0900: Memory Usage (5211192K) : Executing rule MT.4
+2025-12-07 08:35:09 +0900: Memory Usage (5211192K) : MIM Capacitor Option B section
+2025-12-07 08:35:13 +0900: Memory Usage (5211224K) : Executing rule MIMTM.1
+2025-12-07 08:35:16 +0900: Memory Usage (5205612K) : Executing rule MIMTM.2
+2025-12-07 08:35:22 +0900: Memory Usage (5146004K) : Executing rule MIMTM.3
+2025-12-07 08:35:23 +0900: Memory Usage (5146004K) : Executing rule MIMTM.4
+2025-12-07 08:35:25 +0900: Memory Usage (5146000K) : Executing rule MIMTM.5
+2025-12-07 08:35:34 +0900: Memory Usage (5138840K) : Executing rule MIMTM.6
+2025-12-07 08:35:35 +0900: Memory Usage (5139096K) : Executing rule MIMTM.7
+2025-12-07 08:35:36 +0900: Memory Usage (5139096K) : Executing rule MIMTM.8a
+2025-12-07 08:35:36 +0900: Memory Usage (5139096K) : Executing rule MIMTM.8b
+2025-12-07 08:35:36 +0900: Memory Usage (5139096K) : Executing rule MIMTM.9
+2025-12-07 08:35:37 +0900: Memory Usage (5015884K) : Executing rule MIMTM.10
+2025-12-07 08:35:41 +0900: Memory Usage (5015744K) : Executing rule MIMTM.11
+2025-12-07 08:35:46 +0900: Memory Usage (5015952K) : Starting NAT derivations
+2025-12-07 08:35:46 +0900: Memory Usage (5015952K) : Executing rule NAT.1
+2025-12-07 08:35:48 +0900: Memory Usage (5015824K) : Executing rule NAT.2
+2025-12-07 08:35:48 +0900: Memory Usage (5015824K) : Executing rule NAT.3
+2025-12-07 08:35:49 +0900: Memory Usage (5015824K) : Executing rule NAT.4
+2025-12-07 08:35:51 +0900: Memory Usage (5015952K) : Executing rule NAT.5
+2025-12-07 08:35:53 +0900: Memory Usage (5016204K) : CONNECTIVITY_RULES section
+2025-12-07 08:35:53 +0900: Memory Usage (5016204K) : Executing rule NAT.6
+2025-12-07 08:35:54 +0900: Memory Usage (5016204K) : Executing rule NAT.7
+2025-12-07 08:35:54 +0900: Memory Usage (5016204K) : Executing rule NAT.8
+2025-12-07 08:35:54 +0900: Memory Usage (5016204K) : Executing rule NAT.9
+2025-12-07 08:35:55 +0900: Memory Usage (5016204K) : Executing rule NAT.10
+2025-12-07 08:35:55 +0900: Memory Usage (5016204K) : Executing rule NAT.11
+2025-12-07 08:35:56 +0900: Memory Usage (5016204K) : Executing rule NAT.12
+2025-12-07 08:35:56 +0900: Memory Usage (5016204K) : Starting NPLUS derivations
+2025-12-07 08:36:02 +0900: Memory Usage (5016460K) : Executing rule NP.1
+2025-12-07 08:36:02 +0900: Memory Usage (5016460K) : Executing rule NP.2
+2025-12-07 08:36:03 +0900: Memory Usage (5016332K) : Executing rule NP.3a
+2025-12-07 08:36:08 +0900: Memory Usage (4880180K) : Executing rule NP.3bi
+2025-12-07 08:36:12 +0900: Memory Usage (4880180K) : Executing rule NP.3bii
+2025-12-07 08:36:15 +0900: Memory Usage (4880176K) : Executing rule NP.3ci
+2025-12-07 08:36:20 +0900: Memory Usage (4686608K) : Executing rule NP.3cii
+2025-12-07 08:36:26 +0900: Memory Usage (4686736K) : Executing rule NP.3d
+2025-12-07 08:36:27 +0900: Memory Usage (4686864K) : Executing rule NP.3e
+2025-12-07 08:36:27 +0900: Memory Usage (4686864K) : Executing rule NP.4a
+2025-12-07 08:36:34 +0900: Memory Usage (4686992K) : Executing rule NP.4b
+2025-12-07 08:36:34 +0900: Memory Usage (4686720K) : Executing rule NP.5a
+2025-12-07 08:36:38 +0900: Memory Usage (4686580K) : Executing rule PP.5b
+2025-12-07 08:36:43 +0900: Memory Usage (4686704K) : Executing rule NP.5ci
+2025-12-07 08:36:50 +0900: Memory Usage (4686700K) : Executing rule NP.5cii
+2025-12-07 08:36:57 +0900: Memory Usage (4686820K) : Executing rule NP.5di
+2025-12-07 08:37:05 +0900: Memory Usage (4687072K) : Executing rule NP.5dii
+2025-12-07 08:37:13 +0900: Memory Usage (4687324K) : Executing rule NP.6
+2025-12-07 08:37:17 +0900: Memory Usage (4687064K) : Executing rule NP.7
+2025-12-07 08:37:18 +0900: Memory Usage (4687064K) : Executing rule NP.8a
+2025-12-07 08:37:19 +0900: Memory Usage (4687064K) : Executing rule NP.8b
+2025-12-07 08:37:20 +0900: Memory Usage (4687064K) : Executing rule NP.9
+2025-12-07 08:37:25 +0900: Memory Usage (4687184K) : Executing rule NP.10
+2025-12-07 08:37:26 +0900: Memory Usage (4687052K) : Executing rule NP.11
+2025-12-07 08:37:29 +0900: Memory Usage (4687048K) : Executing rule NP.12
+2025-12-07 08:37:30 +0900: Memory Usage (4686912K) : Starting NWELL derivations
+2025-12-07 08:37:33 +0900: Memory Usage (4686780K) : Executing rule NW.1a_LV
+2025-12-07 08:37:33 +0900: Memory Usage (4686780K) : Executing rule NW.1a_MV
+2025-12-07 08:37:34 +0900: Memory Usage (4686780K) : Executing rule NW.1b_LV
+2025-12-07 08:37:36 +0900: Memory Usage (4686648K) : Executing rule NW.1b_MV
+2025-12-07 08:37:37 +0900: Memory Usage (4686776K) : CONNECTIVITY_RULES section
+2025-12-07 08:37:42 +0900: Memory Usage (4686900K) : Executing rule NW.2a_LV
+2025-12-07 08:37:43 +0900: Memory Usage (4686900K) : Executing rule NW.2a_MV
+2025-12-07 08:37:43 +0900: Memory Usage (4686900K) : Executing rule NW.2b_LV
+2025-12-07 08:37:43 +0900: Memory Usage (4686900K) : Executing rule NW.2b_MV
+2025-12-07 08:37:44 +0900: Memory Usage (4686900K) : Executing rule NW.3
+2025-12-07 08:37:44 +0900: Memory Usage (4686896K) : Executing rule NW.4
+2025-12-07 08:37:44 +0900: Memory Usage (4687024K) : Executing rule NW.5_LV
+2025-12-07 08:37:46 +0900: Memory Usage (4687016K) : Executing rule NW.5_MV
+2025-12-07 08:37:48 +0900: Memory Usage (4686752K) : Executing rule NW.6
+2025-12-07 08:37:49 +0900: Memory Usage (4686880K) : Starting OTP_MK derivations
+2025-12-07 08:37:50 +0900: Memory Usage (4686880K) : Executing rule O.DF.3a
+2025-12-07 08:37:50 +0900: Memory Usage (4686880K) : Executing rule O.DF.6
+2025-12-07 08:37:50 +0900: Memory Usage (4686880K) : Executing rule O.DF.9
+2025-12-07 08:37:50 +0900: Memory Usage (4686880K) : Executing rule O.PL.2
+2025-12-07 08:37:51 +0900: Memory Usage (4686876K) : Executing rule O.PL.3a
+2025-12-07 08:37:54 +0900: Memory Usage (4686876K) : Executing rule O.PL.4
+2025-12-07 08:37:54 +0900: Memory Usage (4686876K) : Executing rule O.SB.2
+2025-12-07 08:37:54 +0900: Memory Usage (4686876K) : Executing rule O.SB.3
+2025-12-07 08:37:56 +0900: Memory Usage (4687000K) : Executing rule O.SB.4
+2025-12-07 08:37:57 +0900: Memory Usage (4687000K) : Executing rule O.SB.5b_LV
+2025-12-07 08:37:59 +0900: Memory Usage (4687128K) : Executing rule O.SB.9
+2025-12-07 08:37:59 +0900: Memory Usage (4687128K) : Executing rule O.SB.11
+2025-12-07 08:37:59 +0900: Memory Usage (4687128K) : Executing rule O.SB.13_LV
+2025-12-07 08:38:00 +0900: Memory Usage (4687128K) : Executing rule O.SB.13_MV
+2025-12-07 08:38:00 +0900: Memory Usage (4687128K) : Executing rule O.CO.7
+2025-12-07 08:38:00 +0900: Memory Usage (4687128K) : Executing rule O.PL.ORT
+2025-12-07 08:38:01 +0900: Memory Usage (4687256K) : Starting POLY2 derivations
+2025-12-07 08:38:07 +0900: Memory Usage (4686984K) : Executing rule PL.1_LV
+2025-12-07 08:38:09 +0900: Memory Usage (4686984K) : Executing rule PL.1_MV
+2025-12-07 08:38:10 +0900: Memory Usage (4686984K) : Executing rule PL.1a_LV
+2025-12-07 08:38:11 +0900: Memory Usage (4686984K) : Executing rule PL.1a_MV
+2025-12-07 08:38:11 +0900: Memory Usage (4686984K) : Executing rule PL.2_LV
+2025-12-07 08:38:15 +0900: Memory Usage (4686844K) : Executing rule PL.2_MV
+2025-12-07 08:38:28 +0900: Memory Usage (4686948K) : Executing rule PL.3a
+2025-12-07 08:38:32 +0900: Memory Usage (4686940K) : Executing rule PL.4_LV
+2025-12-07 08:38:35 +0900: Memory Usage (4686940K) : Executing rule PL.4_MV
+2025-12-07 08:38:36 +0900: Memory Usage (4686936K) : Executing rule PL.5a_LV
+2025-12-07 08:38:36 +0900: Memory Usage (4686804K) : Executing rule PL.5a_MV
+2025-12-07 08:38:37 +0900: Memory Usage (4686932K) : Executing rule PL.5b_LV
+2025-12-07 08:38:37 +0900: Memory Usage (4686932K) : Executing rule PL.5b_MV
+2025-12-07 08:38:38 +0900: Memory Usage (4686932K) : Executing rule PL.6
+2025-12-07 08:38:45 +0900: Memory Usage (4686804K) : Executing rule PL.7_LV
+2025-12-07 08:38:51 +0900: Memory Usage (4687056K) : Executing rule PL.7_MV
+2025-12-07 08:38:57 +0900: Memory Usage (4686908K) : Executing rule PL.9
+2025-12-07 08:39:02 +0900: Memory Usage (4687028K) : Executing rule PL.11
+2025-12-07 08:39:03 +0900: Memory Usage (4687024K) : Executing rule PL.12
+2025-12-07 08:39:07 +0900: Memory Usage (4687152K) : Starting PPLUS derivations
+2025-12-07 08:39:13 +0900: Memory Usage (4687012K) : Executing rule PP.1
+2025-12-07 08:39:13 +0900: Memory Usage (4687012K) : Executing rule PP.2
+2025-12-07 08:39:14 +0900: Memory Usage (4687012K) : Executing rule PP.3a
+2025-12-07 08:39:18 +0900: Memory Usage (4686616K) : Executing rule PP.3bi
+2025-12-07 08:39:22 +0900: Memory Usage (4686744K) : Executing rule PP.3bii
+2025-12-07 08:39:26 +0900: Memory Usage (4686612K) : Executing rule PP.3ci
+2025-12-07 08:39:29 +0900: Memory Usage (4686740K) : Executing rule PP.3cii
+2025-12-07 08:39:34 +0900: Memory Usage (4686992K) : Executing rule PP.3d
+2025-12-07 08:39:34 +0900: Memory Usage (4686988K) : Executing rule PP.3e
+2025-12-07 08:39:34 +0900: Memory Usage (4686984K) : Executing rule PP.4a
+2025-12-07 08:39:37 +0900: Memory Usage (4687112K) : Executing rule PP.4b
+2025-12-07 08:39:42 +0900: Memory Usage (4687100K) : Executing rule PP.5a
+2025-12-07 08:39:45 +0900: Memory Usage (4689016K) : Executing rule PP.5b
+2025-12-07 08:39:51 +0900: Memory Usage (4688876K) : Executing rule PP.5ci
+2025-12-07 08:40:00 +0900: Memory Usage (4691176K) : Executing rule PP.5cii
+2025-12-07 08:40:08 +0900: Memory Usage (4709340K) : Executing rule PP.5di
+2025-12-07 08:40:14 +0900: Memory Usage (4708928K) : Executing rule PP.5dii
+2025-12-07 08:40:16 +0900: Memory Usage (4709184K) : Executing rule PP.6
+2025-12-07 08:40:20 +0900: Memory Usage (4724412K) : Executing rule PP.7
+2025-12-07 08:40:22 +0900: Memory Usage (4724404K) : Executing rule PP.8a
+2025-12-07 08:40:22 +0900: Memory Usage (4724404K) : Executing rule PP.8b
+2025-12-07 08:40:23 +0900: Memory Usage (4724404K) : Executing rule PP.9
+2025-12-07 08:40:30 +0900: Memory Usage (4724520K) : Executing rule PP.10
+2025-12-07 08:40:31 +0900: Memory Usage (4724384K) : Executing rule PP.11
+2025-12-07 08:40:34 +0900: Memory Usage (4724256K) : Executing rule PP.12
+2025-12-07 08:40:36 +0900: Memory Usage (4724116K) : Starting PRES derivations
+2025-12-07 08:40:40 +0900: Memory Usage (4724108K) : Executing rule PRES.1
+2025-12-07 08:40:40 +0900: Memory Usage (4724108K) : Executing rule PRES.2
+2025-12-07 08:40:41 +0900: Memory Usage (4724236K) : Executing rule PRES.3
+2025-12-07 08:40:41 +0900: Memory Usage (4724236K) : Executing rule PRES.4
+2025-12-07 08:40:42 +0900: Memory Usage (4724364K) : Executing rule PRES.5
+2025-12-07 08:40:45 +0900: Memory Usage (4724228K) : Executing rule PRES.6
+2025-12-07 08:40:45 +0900: Memory Usage (4724096K) : Executing rule PRES.7
+2025-12-07 08:40:49 +0900: Memory Usage (4730740K) : Executing rule PRES.9a
+2025-12-07 08:40:54 +0900: Memory Usage (4730604K) : Executing rule PRES.9b
+2025-12-07 08:40:56 +0900: Memory Usage (4730600K) : Starting sab derivations
+2025-12-07 08:40:59 +0900: Memory Usage (4730720K) : Executing rule SB.1
+2025-12-07 08:41:00 +0900: Memory Usage (4730720K) : Executing rule SB.2
+2025-12-07 08:41:00 +0900: Memory Usage (4730848K) : Executing rule SB.3
+2025-12-07 08:41:01 +0900: Memory Usage (4730976K) : Executing rule SB.4
+2025-12-07 08:41:02 +0900: Memory Usage (4732508K) : Executing rule SB.5a
+2025-12-07 08:41:05 +0900: Memory Usage (4732504K) : Executing rule SB.5b
+2025-12-07 08:41:07 +0900: Memory Usage (4732496K) : Executing rule SB.6
+2025-12-07 08:41:07 +0900: Memory Usage (4732496K) : Executing rule SB.7
+2025-12-07 08:41:08 +0900: Memory Usage (4732496K) : Executing rule SB.8
+2025-12-07 08:41:08 +0900: Memory Usage (4732496K) : Executing rule SB.9
+2025-12-07 08:41:08 +0900: Memory Usage (4732228K) : Executing rule SB.10
+2025-12-07 08:41:08 +0900: Memory Usage (4732356K) : Executing rule SB.11
+2025-12-07 08:41:08 +0900: Memory Usage (4732484K) : Executing rule SB.12
+2025-12-07 08:41:10 +0900: Memory Usage (4732612K) : Executing rule SB.13
+2025-12-07 08:41:11 +0900: Memory Usage (4732612K) : Executing rule SB.14a
+2025-12-07 08:41:19 +0900: Memory Usage (4732468K) : Executing rule SB.14b
+2025-12-07 08:41:21 +0900: Memory Usage (4732328K) : Executing rule SB.15a
+2025-12-07 08:41:25 +0900: Memory Usage (4732584K) : Executing rule SB.15b
+2025-12-07 08:41:31 +0900: Memory Usage (4732708K) : Executing rule SB.16
+2025-12-07 08:41:34 +0900: Memory Usage (4732568K) : Starting 3.3V SRAM derivations
+2025-12-07 08:41:35 +0900: Memory Usage (4732568K) : Executing rule S.DF.4c_LV
+2025-12-07 08:41:36 +0900: Memory Usage (4732436K) : Executing rule S.DF.16_LV
+2025-12-07 08:41:39 +0900: Memory Usage (4732556K) : Executing rule S.CO.3_LV
+2025-12-07 08:41:39 +0900: Memory Usage (4732556K) : Executing rule S.CO.4_LV
+2025-12-07 08:41:40 +0900: Memory Usage (4732556K) : Executing rule S.CO.6_ii_LV
+2025-12-07 08:41:42 +0900: Memory Usage (4732812K) : Executing rule S.M1.1_LV
+2025-12-07 08:41:42 +0900: Memory Usage (4732812K) : Starting 5V SRAM derivations
+2025-12-07 08:41:43 +0900: Memory Usage (4732680K) : Executing rule S.DF.4c_MV
+2025-12-07 08:41:45 +0900: Memory Usage (4732552K) : Executing rule S.DF.6_MV
+2025-12-07 08:41:45 +0900: Memory Usage (4732552K) : Executing rule S.DF.7_MV
+2025-12-07 08:41:47 +0900: Memory Usage (4732548K) : Executing rule S.DF.8_MV
+2025-12-07 08:41:47 +0900: Memory Usage (4732548K) : Executing rule S.DF.16_MV
+2025-12-07 08:41:50 +0900: Memory Usage (4732420K) : Executing rule S.PL.5a_MV
+2025-12-07 08:41:50 +0900: Memory Usage (4732420K) : Executing rule S.PL.5b_MV
+2025-12-07 08:41:50 +0900: Memory Usage (4732420K) : Executing rule S.CO.4_MV
+2025-12-07 08:41:51 +0900: Memory Usage (4732420K) :  DRC Total Run time 3526.242959913 seconds
+2025-12-07 08:41:51 +0900: Memory Usage (4732420K) : Executing rule V1.1
+2025-12-07 08:41:52 +0900: Memory Usage (4732484K) : Executing rule V1.2a
+2025-12-07 08:41:53 +0900: Memory Usage (4732484K) : Executing rule V1.2b
+2025-12-07 08:42:04 +0900: Memory Usage (4732868K) : Executing rule V1.3a
+2025-12-07 08:42:10 +0900: Memory Usage (4760792K) : Executing rule V1.3c
+2025-12-07 08:42:17 +0900: Memory Usage (4760604K) : Executing rule V1.3d
+2025-12-07 08:42:32 +0900: Memory Usage (4765000K) : Executing rule V1.4a
+2025-12-07 08:42:45 +0900: Memory Usage (4835160K) : Executing rule V1.4b
+2025-12-07 08:42:52 +0900: Memory Usage (4835236K) : Executing rule V1.4c
+2025-12-07 08:43:08 +0900: Memory Usage (4845248K) : Executing rule V2.1
+2025-12-07 08:43:09 +0900: Memory Usage (4845288K) : Executing rule V2.2a
+2025-12-07 08:43:10 +0900: Memory Usage (4863988K) : Executing rule V2.2b
+2025-12-07 08:43:21 +0900: Memory Usage (4885860K) : Executing rule V2.3b
+2025-12-07 08:43:33 +0900: Memory Usage (4912480K) : Executing rule V2.3c
+2025-12-07 08:43:41 +0900: Memory Usage (4922756K) : Executing rule V2.3d
+2025-12-07 08:43:56 +0900: Memory Usage (4951776K) : Executing rule V2.4a
+2025-12-07 08:44:09 +0900: Memory Usage (4903916K) : Executing rule V2.4b
+2025-12-07 08:44:16 +0900: Memory Usage (4903636K) : Executing rule V2.4c
+2025-12-07 08:44:32 +0900: Memory Usage (4930316K) : Executing rule V3.1
+2025-12-07 08:44:33 +0900: Memory Usage (4930316K) : Executing rule V3.2a
+2025-12-07 08:44:34 +0900: Memory Usage (4930444K) : Executing rule V3.2b
+2025-12-07 08:44:46 +0900: Memory Usage (4978436K) : Executing rule V3.3b
+2025-12-07 08:45:10 +0900: Memory Usage (5022724K) : Executing rule V3.3c
+2025-12-07 08:45:17 +0900: Memory Usage (5022720K) : Executing rule V3.3d
+2025-12-07 08:45:40 +0900: Memory Usage (5022712K) : Executing rule V3.4a
+2025-12-07 08:45:59 +0900: Memory Usage (5033208K) : Executing rule V3.4b
+2025-12-07 08:46:06 +0900: Memory Usage (5033460K) : Executing rule V3.4c
+2025-12-07 08:46:26 +0900: Memory Usage (5033584K) : Executing rule V4.1
+2025-12-07 08:46:27 +0900: Memory Usage (5033584K) : Executing rule V4.2a
+2025-12-07 08:46:28 +0900: Memory Usage (5056240K) : Executing rule V4.2b
+2025-12-07 08:46:41 +0900: Memory Usage (5072092K) : Executing rule V4.3b
+2025-12-07 08:47:05 +0900: Memory Usage (5108196K) : Executing rule V4.3c
+2025-12-07 08:47:12 +0900: Memory Usage (5108320K) : Executing rule V4.3d
+2025-12-07 08:47:34 +0900: Memory Usage (5108700K) : Executing rule V4.4a
+2025-12-07 08:47:47 +0900: Memory Usage (5108700K) : Executing rule V4.4b
+2025-12-07 08:47:50 +0900: Memory Usage (5108564K) : Executing rule V4.4c
+2025-12-07 08:48:03 +0900: Memory Usage (5108692K) : Starting YMTP_MK derivations
+2025-12-07 08:48:03 +0900: Memory Usage (5108692K) : Executing rule Y.NW.2b_LV
+2025-12-07 08:48:03 +0900: Memory Usage (5108692K) : Executing rule Y.NW.2b_MV
+2025-12-07 08:48:04 +0900: Memory Usage (5108692K) : Executing rule Y.DF.6_MV
+2025-12-07 08:48:05 +0900: Memory Usage (5108692K) : Executing rule Y.DF.16_LV
+2025-12-07 08:48:05 +0900: Memory Usage (5108692K) : Executing rule Y.DF.16_MV
+2025-12-07 08:48:05 +0900: Memory Usage (5108692K) : Executing rule Y.PL.1_LV
+2025-12-07 08:48:06 +0900: Memory Usage (5108692K) : Executing rule Y.PL.1_MV
+2025-12-07 08:48:06 +0900: Memory Usage (5108692K) : Executing rule Y.PL.2_LV
+2025-12-07 08:48:07 +0900: Memory Usage (5108820K) : Executing rule Y.PL.2_MV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule Y.PL.4_MV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule Y.PL.5a_LV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule Y.PL.5a_MV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule Y.PL.5b_LV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule Y.PL.5b_MV
+2025-12-07 08:48:09 +0900: Memory Usage (5108948K) : Executing rule DE.2
+2025-12-07 08:48:10 +0900: Memory Usage (5108948K) : Executing rule DE.3
+2025-12-07 08:48:11 +0900: Memory Usage (5108948K) : Executing rule DE.4
+2025-12-07 08:48:11 +0900: Memory Usage (5108948K) : Starting dummy comp derivations
+2025-12-07 08:48:11 +0900: Memory Usage (5108948K) : Executing rule DCF.2b
+2025-12-07 08:48:12 +0900: Memory Usage (5128060K) : Executing rule DCF.4
+2025-12-07 08:48:13 +0900: Memory Usage (5123096K) : Executing rule DCF.5
+2025-12-07 08:48:14 +0900: Memory Usage (5066816K) : Executing rule DCF.6a
+2025-12-07 08:48:14 +0900: Memory Usage (5066768K) : Executing rule DCF.6b
+2025-12-07 08:48:15 +0900: Memory Usage (5026488K) : Executing rule DCF.6c
+2025-12-07 08:48:15 +0900: Memory Usage (5026616K) : Executing rule DCF.6d
+2025-12-07 08:48:16 +0900: Memory Usage (5026616K) : Executing rule DCF.8a
+2025-12-07 08:48:16 +0900: Memory Usage (5026576K) : Executing rule DCF.11a
+2025-12-07 08:48:16 +0900: Memory Usage (5026576K) : Executing rule DCF.12
+2025-12-07 08:48:17 +0900: Memory Usage (5026576K) : Starting Dummy Poly2 derivations
+2025-12-07 08:48:17 +0900: Memory Usage (5026576K) : Executing rule DPF.2b
+2025-12-07 08:48:18 +0900: Memory Usage (5026576K) : Executing rule DPF.4
+2025-12-07 08:48:18 +0900: Memory Usage (5026832K) : Executing rule DPF.5
+2025-12-07 08:48:19 +0900: Memory Usage (5020928K) : Executing rule DPF.6a
+2025-12-07 08:48:19 +0900: Memory Usage (5020928K) : Executing rule DPF.6b
+2025-12-07 08:48:20 +0900: Memory Usage (5021184K) : Executing rule DPF.6c
+2025-12-07 08:48:20 +0900: Memory Usage (5021180K) : Executing rule DPF.6d
+2025-12-07 08:48:21 +0900: Memory Usage (5021224K) : Executing rule DPF.8
+2025-12-07 08:48:21 +0900: Memory Usage (5021092K) : Executing rule DPF.9
+2025-12-07 08:48:22 +0900: Memory Usage (5051808K) : Executing rule DPF.11
+2025-12-07 08:48:22 +0900: Memory Usage (5051808K) : Executing rule DPF.14
+2025-12-07 08:48:22 +0900: Memory Usage (5051808K) : Executing rule DPF.16
+2025-12-07 08:48:22 +0900: Memory Usage (5051808K) : Executing rule DPF.19
+2025-12-07 08:48:23 +0900: Memory Usage (5051936K) : Executing rule DM1.2b
+2025-12-07 08:51:59 +0900: Memory Usage (5866828K) : Executing rule DM1.3
+2025-12-07 08:57:43 +0900: Memory Usage (5985520K) : Executing rule DM1.8
+2025-12-07 08:57:47 +0900: Memory Usage (5151680K) : Executing rule DM2.2b
+2025-12-07 09:01:39 +0900: Memory Usage (5216100K) : Executing rule DM2.3
+2025-12-07 09:07:26 +0900: Memory Usage (5826940K) : Executing rule DM2.8
+2025-12-07 09:07:30 +0900: Memory Usage (5128472K) : Executing rule DM3.2b
+2025-12-07 09:11:34 +0900: Memory Usage (5677680K) : Executing rule DM3.3
+2025-12-07 09:15:41 +0900: Memory Usage (6461368K) : Executing rule DM3.8
+2025-12-07 09:15:45 +0900: Memory Usage (5127996K) : Executing rule DM4.2b
+2025-12-07 09:19:45 +0900: Memory Usage (5346708K) : Executing rule DM4.3
+2025-12-07 09:24:07 +0900: Memory Usage (5785132K) : Executing rule DM4.8
+2025-12-07 09:24:12 +0900: Memory Usage (5107688K) : Executing rule CUP.2
+2025-12-07 09:24:56 +0900: Memory Usage (5168976K) : Executing rule CUP.3
+2025-12-07 09:25:40 +0900: Memory Usage (5278456K) :  DRC Total Run time 6155.60163646 seconds

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-database>
+ <description>Zero Area Polygon Report</description>
+ <original-file/>
+ <generator>drc: script='/home/noritsuna/tools/gf180mcu-precheck/scripts/klayout/zero_area.drc'</generator>
+ <top-cell>chip_top</top-cell>
+ <tags>
+ </tags>
+ <categories>
+  <category>
+   <name>34/0_zero_area</name>
+   <description>34/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>22/0_zero_area</name>
+   <description>22/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>33/0_zero_area</name>
+   <description>33/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>31/0_zero_area</name>
+   <description>31/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>42/0_zero_area</name>
+   <description>42/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>42/10_zero_area</name>
+   <description>42/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>0/0_zero_area</name>
+   <description>0/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>46/0_zero_area</name>
+   <description>46/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>40/0_zero_area</name>
+   <description>40/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>36/0_zero_area</name>
+   <description>36/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>35/0_zero_area</name>
+   <description>35/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>32/0_zero_area</name>
+   <description>32/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>55/0_zero_area</name>
+   <description>55/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>30/0_zero_area</name>
+   <description>30/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>21/0_zero_area</name>
+   <description>21/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>38/0_zero_area</name>
+   <description>38/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>49/0_zero_area</name>
+   <description>49/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>100/8_zero_area</name>
+   <description>100/8 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>110/5_zero_area</name>
+   <description>110/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>204/0_zero_area</name>
+   <description>204/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>166/5_zero_area</name>
+   <description>166/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/0_zero_area</name>
+   <description>81/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>41/0_zero_area</name>
+   <description>41/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>46/10_zero_area</name>
+   <description>46/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>58/0_zero_area</name>
+   <description>58/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>34/10_zero_area</name>
+   <description>34/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>36/10_zero_area</name>
+   <description>36/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/10_zero_area</name>
+   <description>81/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>37/0_zero_area</name>
+   <description>37/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>115/5_zero_area</name>
+   <description>115/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>23/5_zero_area</name>
+   <description>23/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>137/5_zero_area</name>
+   <description>137/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>112/1_zero_area</name>
+   <description>112/1 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>63/63_zero_area</name>
+   <description>63/63 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>21/10_zero_area</name>
+   <description>21/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>204/10_zero_area</name>
+   <description>204/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>119/5_zero_area</name>
+   <description>119/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>24/5_zero_area</name>
+   <description>24/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>117/5_zero_area</name>
+   <description>117/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>75/0_zero_area</name>
+   <description>75/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>117/10_zero_area</name>
+   <description>117/10 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>12/0_zero_area</name>
+   <description>12/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>62/0_zero_area</name>
+   <description>62/0 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>167/5_zero_area</name>
+   <description>167/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/4_zero_area</name>
+   <description>81/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>46/4_zero_area</name>
+   <description>46/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>42/4_zero_area</name>
+   <description>42/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>36/4_zero_area</name>
+   <description>36/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>34/4_zero_area</name>
+   <description>34/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>30/4_zero_area</name>
+   <description>30/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>22/4_zero_area</name>
+   <description>22/4 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>152/5_zero_area</name>
+   <description>152/5 zero area polygon violation</description>
+   <categories>
+   </categories>
+  </category>
+ </categories>
+ <cells>
+  <cell>
+   <name>chip_top</name>
+   <variant/>
+   <layout-name/>
+   <references>
+   </references>
+  </cell>
+ </cells>
+ <items>
+ </items>
+</report-database>
