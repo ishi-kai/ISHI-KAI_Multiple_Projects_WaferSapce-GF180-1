@@ -47,6 +47,29 @@ Since ISHI-KAI has university professors and semiconductor companies as collabor
 - ![KLayout](/images/chip_image_klayout.png)
 
 
+## WSL Image
+We provide a WSL image with an environment set up to run the circuit diagrams, simulations, layouts, DRC, and LVS mentioned above.  
+
+- [Image for circuit diagrams, simulations, layouts, and LVS](https://www.noritsuna.jp/download/ubuntu2204_chipathon2023_gf180.tar.xz)
+    - ID: ishi-kai
+    - Pass: ishi-kai
+
+- [Image for DRC & Precheck of Wafer.Space](https://www.noritsuna.jp/download/ubuntu2404_waferspace-RUN1.tar.xz)
+    - ID: ishikai
+    - Pass: ishikai
+
+### Installing WSL Images
+`wsl --import-in-place ubuntu2204_chipathon2023_gf180 .\ubuntu2204_chipathon2023_gf180\ext4.vhdx`
+
+The above command will be recognised. To execute it, please use the included "ubuntu2204_chipathon2023_gf180.lnk".  
+
+
+### Deleting WSL Images
+Please note that image files will also be deleted.  
+
+`wsl --unregister ubuntu2204_chipathon2023_gf180`
+
+
 ### Schematic
 Please refer to the links below.  
 
