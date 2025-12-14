@@ -84,8 +84,8 @@ Please refer to the links below.
 
 
 ## Precheck Log
-- [precheck log](/precheck_log/RUN_2025-12-07_06-59-29/)
-- ![precheck log](/images/precheck_7th_OK.png)
+- [precheck log](/precheck_log/RUN_2025-12-14_08-59-45/)
+- ![precheck log](/images/precheck_8th_OK.png)
 - ![submit log](/images/Submit_OK.png)
 
 
