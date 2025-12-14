@@ -83,10 +83,17 @@ Please refer to the links below.
 
 
 
-## Precheck Log
+## Wafer.Space
+This project was submitted to [Wafer.Space's RUN1](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1).  
+
+- [Submitted Project](https://platform.wafer.space/projects/89a054e9-02e9-4952-b360-7b4eebf1a474/)
+
+
+### Precheck Log
 - [precheck log](/precheck_log/RUN_2025-12-14_08-59-45/)
 - ![precheck log](/images/precheck_8th_OK.png)
 - ![submit log](/images/Submit_OK.png)
+
 
 
 # [SAR-ADC](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/submit_version)
