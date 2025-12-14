@@ -90,8 +90,8 @@ This project was submitted to [Wafer.Space's RUN1](https://www.crowdsupply.com/w
 
 
 ### Precheck Log
-- [precheck log](/precheck_log/RUN_2025-12-14_08-59-45/)
-- ![precheck log](/images/precheck_8th_OK.png)
+- [precheck log](/precheck_log/RUN_2025-12-15_03-06-04/)
+- ![precheck log](/images/precheck_9th_OK.png)
 - ![submit log](/images/Submit_OK.png)
 
 

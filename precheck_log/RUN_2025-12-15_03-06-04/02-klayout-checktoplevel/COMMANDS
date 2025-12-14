@@ -1,0 +1,1 @@
+/nix/store/8i0y5027cnibbv3nbs0pmk5gkgdbg1mq-python3-3.12.10-env/bin/python3.12 /home/noritsuna/tools/gf180mcu-precheck/scripts/klayout/check_top.py /home/noritsuna/tools/gf180mcu-precheck/runs/RUN_2025-12-15_03-06-04/01-klayout-readlayout/ISHI-KAI_WS_RUN1.gds --top ISHI-KAI_WS_RUN1
