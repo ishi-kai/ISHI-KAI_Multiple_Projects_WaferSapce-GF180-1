@@ -46,6 +46,30 @@ Since ISHI-KAI has university professors and semiconductor companies as collabor
 - [Member's Project](/gds/member_project/)
 - ![KLayout](/images/chip_image_klayout.png)
 
+### Schematic
+Please refer to the links below.  
+
+- [SAR-ADC](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/submit_version)
+- [LDO](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/noritsuna/ldo)
+- [PLL](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/PLL/)
+- [BGR](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/BGR/)
+- [CS](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/CS)
+- [Inverter](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)
+- [OPAMP](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)
+
+
+## Manufacturing Shuttle
+This project was submitted to [Wafer.Space's RUN1](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1).  
+
+- [Submitted Project](https://platform.wafer.space/projects/89a054e9-02e9-4952-b360-7b4eebf1a474/)
+
+
+
+### Precheck Log
+- [precheck log](/precheck_log/RUN_2025-12-15_03-06-04/)
+- ![precheck log](/images/precheck_9th_OK.png)
+- ![submit log](/images/Submit_OK.png)
+
 
 ## WSL Image
 We provide a WSL image with an environment set up to run the circuit diagrams, simulations, layouts, DRC, and LVS mentioned above.  
@@ -68,31 +92,6 @@ The above command will be recognised. To execute it, please use the included "ub
 Please note that image files will also be deleted.  
 
 `wsl --unregister ubuntu2204_chipathon2023_gf180`
-
-
-### Schematic
-Please refer to the links below.  
-
-- [SAR-ADC](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/submit_version)
-- [LDO](https://github.com/ishi-kai/Chipathon2023_ADC/tree/main/noritsuna/ldo)
-- [PLL](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/PLL/)
-- [BGR](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/BGR/)
-- [CS](https://github.com/atuchiya/DC23-LTC2/tree/japan-test/CS)
-- [Inverter](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)
-- [OPAMP](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)
-
-
-
-## Wafer.Space
-This project was submitted to [Wafer.Space's RUN1](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1).  
-
-- [Submitted Project](https://platform.wafer.space/projects/89a054e9-02e9-4952-b360-7b4eebf1a474/)
-
-
-### Precheck Log
-- [precheck log](/precheck_log/RUN_2025-12-15_03-06-04/)
-- ![precheck log](/images/precheck_9th_OK.png)
-- ![submit log](/images/Submit_OK.png)
 
 
 
