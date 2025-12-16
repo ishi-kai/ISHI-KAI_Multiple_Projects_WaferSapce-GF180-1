@@ -1,0 +1,66 @@
+2025-12-16 22:51:57 +0900: Memory Usage (420796K) : Starting running GF180MCU Klayout DRC runset on /home/noritsuna/tools/gf180mcu-precheck/runs/RUN_2025-12-16_22-51-46/04-klayout-generateid/ISHI-KAI_WS_RUN1.gds
+2025-12-16 22:51:57 +0900: Memory Usage (420796K) : Ruby Version for klayout: 3.3.8
+2025-12-16 22:51:58 +0900: Memory Usage (611464K) : Loading database to memory is complete.
+2025-12-16 22:51:58 +0900: Memory Usage (611464K) : GF180MCU Klayout density DRC runset output at: /home/noritsuna/tools/gf180mcu-precheck/runs/RUN_2025-12-16_22-51-46/05-klayout-density/reports/density.klayout.lyrdb
+2025-12-16 22:51:58 +0900: Memory Usage (611648K) : Evaluate switches.
+2025-12-16 22:51:58 +0900: Memory Usage (611648K) : Number of threads to use 16
+2025-12-16 22:51:58 +0900: Memory Usage (611648K) : Verbose mode: 
+2025-12-16 22:51:58 +0900: Memory Usage (612124K) : Tiling  mode is enabled.
+2025-12-16 22:51:58 +0900: Memory Usage (612124K) : METAL_TOP Selected is 9K
+2025-12-16 22:51:58 +0900: Memory Usage (612124K) : METAL_STACK Selected is 5LM
+2025-12-16 22:51:58 +0900: Memory Usage (612124K) : Read in polygons from layers.
+2025-12-16 22:51:58 +0900: Memory Usage (646880K) : comp_drawn has 48271 polygons
+2025-12-16 22:51:59 +0900: Memory Usage (690272K) : comp_dummy has 194021 polygons
+2025-12-16 22:51:59 +0900: Memory Usage (727152K) : dualgate has 3155 polygons
+2025-12-16 22:51:59 +0900: Memory Usage (768496K) : poly2_drawn has 203125 polygons
+2025-12-16 22:51:59 +0900: Memory Usage (768496K) : poly2_dummy has 0 polygons
+2025-12-16 22:52:04 +0900: Memory Usage (2284320K) : contact has 5712668 polygons
+2025-12-16 22:52:06 +0900: Memory Usage (2191916K) : metal1_drawn has 1249965 polygons
+2025-12-16 22:52:06 +0900: Memory Usage (2191916K) : metal1_dummy has 0 polygons
+2025-12-16 22:52:07 +0900: Memory Usage (2283304K) : metal1_label has 0 polygons
+2025-12-16 22:52:07 +0900: Memory Usage (2283304K) : metal1_slot has 0 polygons
+2025-12-16 22:52:07 +0900: Memory Usage (2283304K) : metal1_blk has 0 polygons
+2025-12-16 22:52:09 +0900: Memory Usage (2459772K) : via1 has 1508994 polygons
+2025-12-16 22:52:10 +0900: Memory Usage (2564188K) : metal2_drawn has 1217240 polygons
+2025-12-16 22:52:10 +0900: Memory Usage (2564188K) : metal2_dummy has 0 polygons
+2025-12-16 22:52:11 +0900: Memory Usage (2694696K) : metal2_label has 130 polygons
+2025-12-16 22:52:11 +0900: Memory Usage (2694696K) : metal2_slot has 0 polygons
+2025-12-16 22:52:11 +0900: Memory Usage (2694696K) : metal2_blk has 0 polygons
+2025-12-16 22:52:13 +0900: Memory Usage (3085168K) : via2 has 2396721 polygons
+2025-12-16 22:52:15 +0900: Memory Usage (3134712K) : metal3_drawn has 1249103 polygons
+2025-12-16 22:52:15 +0900: Memory Usage (3134712K) : metal3_dummy has 0 polygons
+2025-12-16 22:52:16 +0900: Memory Usage (3249000K) : metal3_label has 129 polygons
+2025-12-16 22:52:16 +0900: Memory Usage (3249000K) : metal3_slot has 0 polygons
+2025-12-16 22:52:16 +0900: Memory Usage (3249000K) : metal3_blk has 0 polygons
+2025-12-16 22:52:25 +0900: Memory Usage (4923340K) : via3 has 9173952 polygons
+2025-12-16 22:52:26 +0900: Memory Usage (4626628K) : metal4_drawn has 1235463 polygons
+2025-12-16 22:52:26 +0900: Memory Usage (4626628K) : metal4_dummy has 0 polygons
+2025-12-16 22:52:28 +0900: Memory Usage (4747544K) : metal4_label has 0 polygons
+2025-12-16 22:52:28 +0900: Memory Usage (4747544K) : metal4_slot has 0 polygons
+2025-12-16 22:52:28 +0900: Memory Usage (4747544K) : metal4_blk has 0 polygons
+2025-12-16 22:52:36 +0900: Memory Usage (6530368K) : via4 has 9254595 polygons
+2025-12-16 22:52:37 +0900: Memory Usage (6427152K) : metal5_drawn has 795813 polygons
+2025-12-16 22:52:37 +0900: Memory Usage (6396952K) : metal5_dummy has 0 polygons
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : metal5_label has 1172 polygons
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : metal5_slot has 0 polygons
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : metal5_blk has 0 polygons
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : Starting GF180MCU DENSITY layer derivations.
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : Starting GF180MCU DENSITY DRC rules.
+2025-12-16 22:52:38 +0900: Memory Usage (6397080K) : Executing rule DCF.1b
+2025-12-16 22:52:38 +0900: Memory Usage (6397208K) : COMP ratio: 40.46022207600469 %
+2025-12-16 22:52:38 +0900: Memory Usage (6397208K) : Executing rule DCF.1d
+2025-12-16 22:52:38 +0900: Memory Usage (6397208K) : Executing rule PL.8
+2025-12-16 22:52:38 +0900: Memory Usage (6397208K) : Poly2 ratio: 36.58017893460599 %
+2025-12-16 22:52:38 +0900: Memory Usage (6397208K) : Executing rule M1.4
+2025-12-16 22:52:40 +0900: Memory Usage (6397592K) : Metal1 ratio: 49.762482894465585 %
+2025-12-16 22:52:40 +0900: Memory Usage (6397592K) : Executing rule M2.4
+2025-12-16 22:52:41 +0900: Memory Usage (6397592K) : Metal2 ratio: 48.243875991672965 %
+2025-12-16 22:52:41 +0900: Memory Usage (6397592K) : Executing rule M3.4
+2025-12-16 22:52:42 +0900: Memory Usage (6397720K) : Metal3 ratio: 53.070546513081815 %
+2025-12-16 22:52:42 +0900: Memory Usage (6397720K) : Executing rule M4.4
+2025-12-16 22:52:43 +0900: Memory Usage (6397848K) : Metal4 ratio: 53.349787330474165 %
+2025-12-16 22:52:43 +0900: Memory Usage (6397848K) : Executing rule M5.4
+2025-12-16 22:52:44 +0900: Memory Usage (6397848K) : Metal5 ratio: 47.283391434834385 %
+2025-12-16 22:52:44 +0900: Memory Usage (6397848K) : Executing rule MT.3
+2025-12-16 22:52:44 +0900: Memory Usage (6397976K) : MetalTop ratio: 47.283391434834385 %
+2025-12-16 22:52:44 +0900: Memory Usage (6397976K) : DRC Total Run time 46.977121 seconds
