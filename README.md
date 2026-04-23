@@ -398,6 +398,8 @@ In this shuttle I designed a simple inverter. This work has helped me to underst
 We received the bare die samples.  
 We took photos of each circuit and uploaded them to [Chip Photos](/chip_photo/).  
 
+- ![sample_die_01](/chip_photo/sample_die_01.jpg)
+- ![sample_die_02](/chip_photo/sample_die_02.jpg)
 - ![Chip_photo](/chip_photo/File_158.JPG)
 
 
