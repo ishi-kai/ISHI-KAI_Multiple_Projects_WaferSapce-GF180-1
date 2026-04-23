@@ -7,6 +7,7 @@ In addition, pads for probing were added to all circuits, taking into account th
 Since ISHI-KAI has university professors and semiconductor companies as collaborators, we are able to borrow probers through the generosity of professors and companies.Therefore, we plan to run analog circuits by probing.  
 
 - ![all_members_layout_using](/images/chip_image_members.png)
+- ![Chip_photo](/chip_photo/File_158.JPG)
 
 
 ## Project List
@@ -391,6 +392,13 @@ In this shuttle I designed a simple inverter. This work has helped me to underst
 - ![ponzu840w_inverter_layout](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1/raw/main/images/ponzu840w_inverter_layout.jpg)
 
 
+
+## Chips
+### Sample Bare Die
+We received the bare die samples.  
+We took photos of each circuit and uploaded them to [Chip Photos](/chip_photo/).  
+
+- ![Chip_photo](/chip_photo/File_158.JPG)
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
