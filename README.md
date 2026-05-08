@@ -402,5 +402,8 @@ We took photos of each circuit and uploaded them to [Chip Photos](/chip_photo/).
 - ![sample_die_02](/chip_photo/sample_die_02.jpg)
 - ![Chip_photo](/chip_photo/File_158.JPG)
 
+- ![baredie_CoB](/chip_photo/baredie_CoB.jpg)
+- ![CoB](/chip_photo/CoB.jpg)
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
